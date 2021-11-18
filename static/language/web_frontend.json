@@ -1,0 +1,843 @@
+{
+  "language_list": [
+    {
+      "default": true,
+      "title": "ภาษาไทย",
+      "value": "TH"
+    },
+    {
+      "title": "English",
+      "value": "EN"
+    }
+  ],
+  "language_data": {
+    "header_login": {
+      "EN": "Login",
+      "TH": "เข้าสู่ระบบ"
+    },
+    "header_register": {
+      "EN": "Regiter",
+      "TH": "สมัครสมาชิก"
+    },
+    "header_Profile": {
+      "EN": "Profile",
+      "TH": "ข้อมูลของฉัน"
+    },
+    "header_logout": {
+      "EN": "logout",
+      "TH": "ออกจากระบบ"
+    },
+    "menu_header_home": {
+      "EN": "Home",
+      "TH": "หน้าหลัก"
+    },
+    "menu_header_package": {
+      "EN": "Package",
+      "TH": "Package"
+    },
+    "menu_title_package": {
+      "EN": "Service Package",
+      "TH": "Package การให้บริการ"
+    },
+    "package_name": {
+      "EN": "Package Name",
+      "TH": "ชื่อ Package"
+    },
+    "package_type": {
+      "EN": "Package Type",
+      "TH": "ประเภท Package"
+    },
+    "service_Period": {
+      "EN": "Service Period",
+      "TH": "ช่วงเวลาการให้บริการ"
+    },
+    "language": {
+      "EN": "Language",
+      "TH": "การสื่อสาร"
+    },
+    "service_rate": {
+      "EN": "Service Rate",
+      "TH": "อัตราค่าบริการ"
+    },
+    "conditions_of_use": {
+      "EN": "Conditions of use",
+      "TH": "เงื่อนไขการใช้งาน"
+    },
+    "buy_package": {
+      "EN": "Buy Package",
+      "TH": "ซื้อ Package"
+    },
+    "package_time_service": {
+      "EN": "Package Service",
+      "TH": "ประเภท Package"
+    },
+    "package_time": {
+      "EN": "Package (Time)",
+      "TH": "Package รายครั้ง"
+    },
+    "package_hour": {
+      "EN": "Package (Hour)",
+      "TH": "Package รายชั่วโมง"
+    },
+    "price_package": {
+      "EN": "ราคา Package",
+      "TH": "Price Package"
+    },
+    "baht": {
+      "EN": "Baht",
+      "TH": "บาท"
+    },
+    "pack_hour": {
+      "EN": "Hour",
+      "TH": "รายชั่วโมง"
+    },
+    "pack_time": {
+      "EN": "Time",
+      "TH": "รายครั้ง"
+    },
+    "hour": {
+      "EN": "Hour",
+      "TH": "ชั่วโมง"
+    },
+    "time": {
+      "EN": "Time",
+      "TH": "ครั้ง"
+    },
+    "quantity": {
+      "EN": "Quantity",
+      "TH": "จำนวน"
+    },
+    "price": {
+      "EN": "Price",
+      "TH": "ราคา"
+    },
+    "not_vat": {
+      "EN": "Not Vat. 7 %",
+      "TH": "ยังไม่รวม Vat. 7 %"
+    },
+    "vat": {
+      "EN": "Vat. 7 %",
+      "TH": "ภาษี 7 %"
+    },
+    "total": {
+      "EN": "Total.",
+      "TH": "ยอดรวม"
+    },
+    "total_amount": {
+      "EN": "Total Amount.",
+      "TH": "ยอดชำระรวมทั้งหมด"
+    },
+    "add_package": {
+      "TH": "ซื้อ Package เพื่ม",
+      "EN": "Add Package"
+    },
+    "order_summary": {
+      "EN": "Order Summary",
+      "TH": "สรุปรายการสั่งซื้อ"
+    },
+    "confirm_order": {
+      "EN": "Confirm Order",
+      "TH": "ยืนยันการสั่งซื้อ"
+    },
+    "summary": {
+      "EN": "Summary",
+      "TH": "ยอดสั่งซื้อ"
+    },
+    "cancel": {
+      "EN": "Cancel",
+      "TH": "ยกเลิก"
+    },
+    "confirm_payment": {
+      "EN": "Confirm Payment",
+      "TH": "แจ้งชำระเงิน"
+    },
+    "cancel_order": {
+      "EN": "Cancel Order",
+      "TH": "ยกเลิกการสั่งซื้อ"
+    },
+    "close": {
+      "EN": "Close",
+      "TH": "ปิดหน้าต่าง"
+    },
+    "bank_transfer": {
+      "EN": "Bank Transfer",
+      "TH": "โอนเข้าธนาคาร"
+    },
+    "slip": {
+      "EN": "Pay-in Slip",
+      "TH": "แนบหลักฐานการโอนเงิน"
+    },
+    "date": {
+      "EN": "Date",
+      "TH": "วันที่"
+    },
+    "timer": {
+      "EN": "Time",
+      "TH": "เวลา"
+    },
+    "transfer_amount": {
+      "EN": "Transfer Amount",
+      "TH": "จำนวนเงินโอน"
+    },
+    "staff_verify": {
+      "EN": "Please wait for the staff to verify the payment.",
+      "TH": "กรุณารอเจ้าหน้าที่ตรวจสอบการชำระเงิน"
+    },
+    "useful_life_time": {
+      "EN": "Useful Life xxx Day (Start Useful Life from the first use of the package)",
+      "TH": "อายุการใช้งาน xxx Day (เริ่มอายุการใช้งาน จากการเริ่มใช้แพ็กเกจครั้งแรก)"
+    },
+    "normal_hours": {
+      "EN": "Normal Hours",
+      "TH": "ชั่วโมงปกติ"
+    },
+    "normal_hours_detail": {
+      "EN": "Normal Hours xxx Baht : Hour (Time : 05:00 AM - 20:00 PM)",
+      "TH": "ชั่วโมงปกติ xxx บาท : ชั่วโมง (ตั้งแต่เวลา 05:00 - 20:00 น.)"
+    },
+    "over_hours_detail": {
+      "EN": "Over Hours xxx Baht : Hour (Rate 1.5 Time : 20:01 PM - 04:59 AM)",
+      "TH": "เกินเวลา xxx บาท : ชั่วโมง (คิดเป็นเรท 1.5 เท่าของค่าบริการ ตั้งแต่เวลา 20:01 - 04:59 น.)"
+    },
+    "menu_header_cart": {
+      "EN": "Cart",
+      "TH": "Cart"
+    },
+    "menu_header_contact": {
+      "EN": "Contact",
+      "TH": "ติดต่อเรา"
+    },
+    "login": {
+      "EN": "Login",
+      "TH": "เข้าสู่ระบบ"
+    },
+    "register": {
+      "EN": "Register",
+      "TH": "สมัครสมาชิก"
+    },
+    "forgotpassword": {
+      "EN": "Forgot password",
+      "TH": "ลืมรหัสผ่าน"
+    },
+    "setting_login": {
+      "EN": "Setting Login",
+      "TH": "ตั้งค่าการเข้าใช้งาน"
+    },
+    "register_title": {
+      "EN": "Register",
+      "TH": "ข้อมูลการสมัครสมาชิก"
+    },
+    "lastname": {
+      "EN": "Lastname",
+      "TH": "นามสกุล "
+    },
+    "name": {
+      "EN": "Name",
+      "TH": "ชื่อ"
+    },
+    "email": {
+      "EN": "Email",
+      "TH": "อีเมล"
+    },
+    "tel": {
+      "EN": "Tel.",
+      "TH": "เบอร์โทรศัพท์"
+    },
+    "username": {
+      "EN": "Username (Email)",
+      "TH": "ชื่อผู้ใช้งาน (อีเมล)"
+    },
+    "confirm_password": {
+      "EN": "Confirm Password",
+      "TH": "ยืนยันรหัสผ่าน"
+    },
+    "change_password": {
+      "EN": "Change Password",
+      "TH": "เปลี่ยนรหัสผ่าน"
+    },
+    "current_password": {
+      "EN": "Current Password",
+      "TH": "รหัสผ่านปัจจุบัน"
+    },
+    "password": {
+      "EN": "Password",
+      "TH": "รหัสผ่าน"
+    },
+    "company_name": {
+      "EN": "Company Name",
+      "TH": "ชื่อบริษัท"
+    },
+    "tax_id": {
+      "EN": "Tax ID",
+      "TH": "เลขประจำตัวผู้เสียภาษี"
+    },
+    "profile": {
+      "EN": "Manage Profile",
+      "TH": "จัดการโปรไฟล์"
+    },
+    "company": {
+      "EN": "Manage Company",
+      "TH": "จัดการข้อมูลบริษัท"
+    },
+    "dashboard": {
+      "EN": "Dashboard",
+      "TH": "ภาพรวมการใช้งาน"
+    },
+    "history": {
+      "EN": "History",
+      "TH": "ประวัติการใช้งาน"
+    },
+    "package": {
+      "EN": "My Package",
+      "TH": "Package ของฉัน"
+    },
+    "user_in_company": {
+      "EN": "User in Company",
+      "TH": "User in Company"
+    },
+    "car_management": {
+      "EN": "Car Management",
+      "TH": "จัดการรถบริษัท"
+    },
+    "order": {
+      "EN": "Order",
+      "TH": "รายการสั่งซื้อ"
+    },
+    "billing": {
+      "EN": "Billing",
+      "TH": "รายการวางบิล"
+    },
+    "message_success": {
+      "EN": "Success",
+      "TH": "ทำรายการสำเร็จ"
+    },
+    "message_error": {
+      "EN": "Error",
+      "TH": "ทำรายการไม่สำเร็จ"
+    },
+    "confirm": {
+      "EN": "Confirm",
+      "TH": "ยืนยันการทำรายการ"
+    },
+    "ok": {
+      "EN": "OK",
+      "TH": "ตกลง"
+    },
+    "company_address": {
+      "EN": "Company Address",
+      "TH": "รายละเอียดที่อยู่บริษัท"
+    },
+    "postcode": {
+      "EN": "Postcode",
+      "TH": "รหัสไปรษณีย์"
+    },
+    "province": {
+      "EN": "Province",
+      "TH": "จังหวัด"
+    },
+    "district": {
+      "EN": "District",
+      "TH": "เขต/อำเภอ"
+    },
+    "sub_district": {
+      "EN": "Sub District",
+      "TH": "แขวง/ตำบล"
+    },
+    "billing_company": {
+      "EN": "Billing Company",
+      "TH": "การวางบิลบริษัท"
+    },
+    "billing_name": {
+      "EN": "Billing Name",
+      "TH": "ชื่อผู้รับวางบิล"
+    },
+    "billing_lastname": {
+      "EN": "Billing Lastname",
+      "TH": "นามสกุลผู้รับวางบิล"
+    },
+    "billing_date": {
+      "EN": "Billing Date",
+      "TH": "รอบการวางบิลของเดือน (ทุกวันที่)"
+    },
+    "billing_location": {
+      "EN": "Location Company",
+      "TH": "ใช้ที่อยู่การวางบิลเดียวกันกับที่อยู่บริษัท "
+    },
+    "billing_address": {
+      "EN": "Billing Address",
+      "TH": "ใช้ที่อยู่การวางบิล "
+    },
+    "Certificate_Company": {
+      "EN": "Certificate of Company",
+      "TH": "เอกสารรับรองบริษัท"
+    },
+    "vat20": {
+      "EN": "VAT Registration (VAT20)",
+      "TH": "เอกสารปพ.20"
+    },
+    "logo_company": {
+      "EN": "Logo Company",
+      "TH": "โลโก้บริษัท"
+    },
+    "confirm_company": {
+      "EN": "Document Certificate Company",
+      "TH": "เอกสารรับรองบริษัท"
+    },
+    "remark_company": {
+      "EN": "Data tax company ,Document Certificate Company ,VAT Registration (VAT20)",
+      "TH": "ข้อมูล เลขประจำตัวผู้เสียภาษี รอบการวางบิลของเดือน และเอกสารยืนยันบริษัท สามารถใส่ข้อมูลได้เฉพาะรอบแรกเท่านั้น กรุณาตรวจสอบข้อมูลให้ถูกต้องก่อนยืนยันทำรายการ"
+    },
+    "recheck_data": {
+      "EN": "Please check your information.",
+      "TH": "กรุณาตรวจสอบข้อมูล"
+    },
+    "err_email": {
+      "EN": "Check Email",
+      "TH": "กรุณากตรวจสอบอีเมล"
+    },
+    "err_password": {
+      "EN": "Check Password",
+      "TH": "กรุณาตรวจสอบรหัสผ่าน"
+    },
+    "err_username": {
+      "EN": "Check Username",
+      "TH": "กรุณากตรวจสอบชื่อผู้ใช้งาน"
+    },
+    "order_no": {
+      "EN": "Order No.",
+      "TH": "เลขที่สั่งซื้อ"
+    },
+    "order_date": {
+      "EN": "Order Date.",
+      "TH": "วันที่สั่งซื้อ"
+    },
+    "allpromotion": {
+      "EN": "All Promotion",
+      "TH": "โปรโมชั่นทั้งหมด"
+    },
+    "all": {
+      "EN": "All",
+      "TH": "ทั้งหมด"
+    },
+    "new": {
+      "EN": "New",
+      "TH": "ข่าวประชาสัมพันธ์"
+    },
+    "to_pay": {
+      "EN": "Pending Payment",
+      "TH": "รอแจ้งการชำระเงิน"
+    },
+    "processing_pay": {
+      "EN": "Checking",
+      "TH": "กำลังตรวจสอบการชำระเงิน"
+    },
+    "reject_pay": {
+      "EN": "Disapprove",
+      "TH": "ไม่ผ่านอนุมัติการชำระเงิน"
+    },
+    "success_pay": {
+      "EN": "Success",
+      "TH": "สั่งซื้อสำเร็จ"
+    },
+    "remark": {
+      "EN": "Remark",
+      "TH": "หมายเหตุ"
+    },
+    "detail": {
+      "EN": "Detail",
+      "TH": "รายละเอียด"
+    },
+    "guest": {
+      "EN": "Guest",
+      "TH": "ผู้เยี่ยมชม"
+    },
+    "loading": {
+      "EN": "Loading...",
+      "TH": "กำลังดาวโหลด..."
+    },
+    "please_login_again": {
+      "TH": "กรุณา Login อีกครั้ง",
+      "EN": "Please login again"
+    },
+    "view_all": {
+      "TH": "ดูทั้งหมด",
+      "EN": "View All"
+    },
+    "message": {
+      "TH": "การแจ้งเตือน",
+      "EN": "Message"
+    },
+    "package_company": {
+      "TH": "จัดการ Package",
+      "EN": "Manage Package"
+    },
+    "travel_information": {
+      "TH": "ข้อมูลการเดินทาง",
+      "EN": "Travel Information"
+    },
+    "travel_date": {
+      "TH": "วันที่เดินทาง",
+      "EN": "Travel Date"
+    },
+    "service_charge": {
+      "TH": "ชำระค่าบริการ",
+      "EN": "Service Charge"
+    },
+    "total_delay": {
+      "TH": "สรุปการใช้งานเกินเวลาที่จอง date, เวลา time น. ( hour ชั่วโมง จะต้องชำระเพิ่ม money บาท )",
+      "EN": "Total Delay date, time ( hour Hour Add On money Baht )"
+    },
+    "car_selected": {
+      "TH": "รถที่ใช้ในการเดินทาง",
+      "EN": "Car Selected"
+    },
+    "driver_profile": {
+      "TH": "ข้อมูลคนขับ",
+      "EN": "Driver Profile"
+    },
+    "code": {
+      "TH": "รหัส",
+      "EN": "code"
+    },
+    "carInspection": {
+      "TH": "การตรวจสภาพรถ",
+      "EN": "Car Inspection"
+    },
+    "mileage_text": {
+      "TH": "เลขไมล์เริ่มขับ mileage_start กม. - เลขไมล์เริ่มขับ mileage_end กม.",
+      "EN": "Mileage start mileage_start km. - End Mileage mileage_end km."
+    },
+    "externalConditions": {
+      "TH": "ตรวจสภาพภายนอกรถ",
+      "EN": "External Conditions"
+    },
+    "check_engine_condition": {
+      "TH": "ตรวจเช็คสภาพรถยนต์ก่อนใช้งาน",
+      "EN": "Check Engine Condition"
+    },
+    "unnormal_checkpoints": {
+      "TH": "ตรวจสภาพภายนอกรถ",
+      "EN": "Unnormal Checkpoints"
+    },
+    "data_not_found": {
+      "TH": "ไม่พบข้อมูลทำรายการ",
+      "EN": "Data Not Found"
+    },
+    "image_check_engine_condition": {
+      "TH": "รูปภาพการตรวจสภาพรถ :",
+      "EN": "Image :"
+    },
+    "suggestion": {
+      "TH": "ข้อเสนอแนะ/คำแนะนำ :",
+      "EN": "Suggestion :"
+    },
+    "show_total_number_day": {
+      "TH": "คงเหลือ XX NN | อายุการใช้งานคงเหลือ DD วัน",
+      "EN": "Total XX NN | Remaining DD Day"
+    },
+    "add_user_in_company": {
+      "TH": "เพิ่ม User In Company",
+      "EN": "Add User In Company"
+    },
+    "access": {
+      "TH": "สิทธิ์",
+      "EN": "Access"
+    },
+    "status": {
+      "TH": "สถานะ",
+      "EN": "Status"
+    },
+    "manage": {
+      "TH": "จัดการ",
+      "EN": "Manage"
+    },
+    "manage_car_company": {
+      "TH": "จัดการรถบริษัท",
+      "EN": "Manage Car Company"
+    },
+    "add_car_company": {
+      "TH": "เพิ่มรถบริษัท",
+      "EN": "Add Car Company"
+    },
+    "please_postal_code": {
+      "TH": "กรุณาระบุรหัส 5 ตัว",
+      "EN": "Please Input 5 Digit"
+    },
+    "recommend_vat_registration": {
+      "TH": "(ควรมีขนาดไม่เกิน : 5 mb และเป็นไฟล์ประเภท PDF / JPG / PNG)",
+      "EN": "(Upload File Limit 5 mb And File Type : PDF / JPG / PNG)"
+    },
+    "recommend_company_certificate_document": {
+      "TH": "(ควรมีขนาดไม่เกิน : 5 mb และเป็นไฟล์ประเภท PDF / JPG / PNG)",
+      "EN": "(Upload File Limit 5 mb And File Type : PDF / JPG / PNG)"
+    },
+    "recommend_file_logo": {
+      "TH": "(ควรมีขนาดไม่เกิน : 5 mb และเป็นไฟล์ประเภท JPG / PNG)",
+      "EN": "(Upload File Limit 5 mb And File Type : JPG / PNG)"
+    },
+    "remark_company2": {
+      "TH": "หากลูกค้าต้องการแก้ไขข้อมูลบริษัทหลังจากกดยืนยันข้อมูลไปแล้ว สามารถติดต่อเพื่อขอเปลี่ยนข้อมูลได้ที่เบอร์ 02-032-2445",
+      "EN": ",If Company will Edit Information After Confirm. Please Call 02-032-2445"
+    },
+    "billing_no": {
+      "TH": "เลขที่วางบิล",
+      "EN": "Billing No"
+    },
+    "total_billing": {
+      "TH": "ยอดวางบิลทั้งหมด money",
+      "EN": "Total Billing money"
+    },
+    "start_date": {
+      "TH": "วันที่เริ่มต้น",
+      "EN": "Start Date"
+    },
+    "end_date": {
+      "TH": "วันที่สิ้นสุด",
+      "EN": "End Date"
+    },
+    "number_of_driver": {
+      "TH": "จำนวนการจองคนขับ",
+      "EN": "Number of Driver"
+    },
+    "billing_amount": {
+      "TH": "ยอดวางบิล",
+      "EN": "Billing Amount"
+    },
+    "number_of_user": {
+      "TH": "จำนวน User",
+      "EN": "Number of User"
+    },
+    "total_count": {
+      "TH": "ทั้งหมด",
+      "EN": "Total All"
+    },
+    "upcoming_status": {
+      "TH": "งานที่ใกล้จะถึง",
+      "EN": "Upcoming Status"
+    },
+    "original_delivery": {
+      "TH": "ส่งที่จุดเดิม",
+      "EN": "Original Delivery"
+    },
+    "header_point": {
+      "TH": "จุดที่ point : header",
+      "EN": "Point No point : header"
+    },
+    "abnormal": {
+      "TH": "ผิดปกติ",
+      "EN": "Abnormal"
+    },
+    "normal": {
+      "TH": "ปกติ",
+      "EN": "Normal"
+    },
+    "sub_header_point": {
+      "TH": "ส่วนที่ point : ",
+      "EN": "Part point : "
+    },
+    "title": {
+      "TH": "หัวเรื่อง",
+      "EN": "Title"
+    },
+    "content": {
+      "TH": "ข้อความ",
+      "EN": "Content"
+    },
+    "car_type": {
+      "TH": "ประเภทรถ",
+      "EN": "Car Type"
+    },
+    "car_brand": {
+      "TH": "ยี่ห้อรถ",
+      "EN": "Car Brand"
+    },
+    "license_plate": {
+      "TH": "ป้ายทะเบียน",
+      "EN": "License Plate"
+    },
+    "gear": {
+      "TH": "ระบบเกียร์",
+      "EN": "Gear"
+    },
+    "car_engine": {
+      "TH": "ประเภทเครื่องยนต์",
+      "EN": "Car Engine"
+    },
+    "upload_img_car": {
+      "TH": "อัปโหลดรูปภาพ",
+      "EN": "Upload Car Image"
+    },
+    "share_package": {
+      "TH": "ใช้ Package แบบร่วม",
+      "EN": "Share Package"
+    },
+    "quota_package": {
+      "TH": "ใช้ Package แบบแบ่ง",
+      "EN": "Set Quota Package"
+    },
+    "set_user_package": {
+      "TH": "กำหนดผู้ใช้ Package",
+      "EN": "Set User Package"
+    },
+    "package_total": {
+      "TH": "Package ทั้งหมด",
+      "EN": "Total Package"
+    },
+    "package_used": {
+      "TH": "Package ที่ใช้ไปแล้ว",
+      "EN": "Used Package"
+    },
+    "user_package": {
+      "TH": "ผู้ใช้ Package",
+      "EN": "User Package"
+    },
+    "used": {
+      "TH": "ใช้ไปแล้ว",
+      "EN": "Used"
+    },
+    "assign": {
+      "TH": "Assign",
+      "EN": "Assign"
+    },
+    "quota_remain": {
+      "TH": "Quota คงเหลือ",
+      "EN": "Quota Remain"
+    },
+    "package_assign": {
+      "TH": "Package ที่ถูก Assign",
+      "EN": "Package Assign"
+    },
+    "avaliable_package_assign": {
+      "TH": "Package ว่าง",
+      "EN": "Avaliable Package"
+    },
+    "edit_car_company": {
+      "TH": "รายละเอียดข้อมูลรถ",
+      "EN": "Car Detail"
+    },
+    "detail_car_company": {
+      "TH": "ข้อมูลรถ",
+      "EN": "Car Detail"
+    },
+    "history_car_company": {
+      "TH": "ประวัติการใช้งาน",
+      "EN": "History"
+    },
+    "use_all_services": {
+      "TH": "ใช้บริการทั้งหมด (ครั้ง)",
+      "EN": "Use All Services"
+    },
+    "edit_assign_quota_package": {
+      "TH": "แก้ไข Quota ที่จะ Assign",
+      "EN": "Edit Assign Quota Package"
+    },
+    "date_start": {
+      "TH": "วันเริ่มงาน",
+      "EN": "Date Start"
+    },
+    "job_no": {
+      "TH": "เลขที่งาน",
+      "EN": "Job No."
+    },
+    "package_user": {
+      "TH": "ชื่อผู้ใช้แพกเกจ",
+      "EN": "Username use Package"
+    },
+    "booking_type": {
+      "TH": "ประเภทการจอง",
+      "EN": "Booking Type"
+    },
+    "billing_work_time": {
+      "TH": "วางบิลในเวลาทำงาน (ชม.)",
+      "EN": "Billing at work time (hr.)"
+    },
+    "after_hour": {
+      "TH": "วางบิลนอกเวลาทำงาน (ชม.)",
+      "EN": "After hour (hr.)"
+    },
+    "edit_user_in_company": {
+      "TH": "แก้ไข User In Company",
+      "EN": "Edit User In Company"
+    },
+    "special_package": {
+      "TH": "Special Package",
+      "EN": "Special Package"
+    },
+    "special": {
+      "TH": "Special",
+      "EN": "Special"
+    },
+    "normal_work": {
+      "TH": "ในเวลาทำงาน {hour} ชม.",
+      "EN": "Normal Time Work {hour} hr."
+    },
+    "overtime_work": {
+      "TH": "นอกเวลาทำงาน {hour} ชม.",
+      "EN": "Over Time Work {hour} hr."
+    },
+    "booking_work": {
+      "TH": "จอง : ",
+      "EN": "Booking : "
+    },
+    "total_billing_work": {
+      "TH": "ยอดวางบิล {money} บาท",
+      "EN": "Total Billing {money} Baht."
+    },
+    "alertForgotPasswordSuccess1": {
+      "TH": "รีเซ็ตรหัสผ่านเรียบร้อย",
+      "EN": "Reset password successful."
+    },
+    "alertForgotPasswordSuccess2": {
+      "TH": "ระบบส่งรหัสผ่านใหม่เข้าอีเมลที่ระบุให้แล้ว",
+      "EN": "The system will send a new code to the registered email."
+    },
+    "confiem_assign_package": {
+      "TH": "การ Assign Package จะหายไปยืนยันจะเปลี่ยนหรือไม่",
+      "EN": "Assign Package will delete, Do you want to change ?"
+    },
+    "err_upload_image": {
+      "TH": "กรุณาอัพโหลดรูปภาพ",
+      "EN": "Please upload image."
+    },
+    "err_payment": {
+      "TH": "กรุณกรอกยอดเงินมากกว่าหรือเท่ากับ money",
+      "EN": "Please fill in an amount greater than or equal to money."
+    },
+    "over_booking_work": {
+      "TH": "ใช้เกินเวลาที่จอง : ",
+      "EN": "Over the time of booking : "
+    },
+    "work_start": {
+      "TH": "เริ่มงานจริง",
+      "EN": "Work Start"
+    },
+    "work_end": {
+      "TH": "จบงานจริง",
+      "EN": "Work End"
+    },
+    "booking_pick_up": {
+      "TH": "จองไปรับ",
+      "EN": "Booking Pick up"
+    },
+    "booking_drop_off": {
+      "TH": "จองไปส่ง",
+      "EN": "Booking Drop Off"
+    },
+    "payment_detail": {
+      "TH": "รายละเอียดการแจ้งชำระเงิน",
+      "EN": "Transfer detail."
+    },
+    "booking_by": {
+      "TH": "จองโดย",
+      "EN": "Booking by"
+    },
+    "passenger": {
+      "TH": "ผู้โดยสาร",
+      "EN": "Passenger"
+    },
+    "admin_by_package": {
+      "TH": "ผู้ดูแล Package",
+      "EN": "Admin by package"
+    }
+  }
+}

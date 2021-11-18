@@ -1,0 +1,1351 @@
+{
+    "language_list" : [
+        { "value": "TH", "title": "ภาษาไทย", "default": true },
+        { "value": "EN", "title": "English" }
+    ],
+    "language_data" : {
+        "confirm": {
+            "EN": "Confirm",
+            "TH": "ยืนยัน"
+        },
+        "done": {
+            "EN": "Done",
+            "TH": "ยืนยัน"
+        },
+        "cancel": {
+            "EN": "Cancel",
+            "TH": "ยกเลิก"
+        },
+        "detail": {
+            "EN": "Detail",
+            "TH": "รายละเอียด"
+        },
+        "btnCloseModalNoBorder": {
+            "EN": "Close",
+            "TH": "ปิดหน้าต่าง"
+        },
+        "bath": {
+            "EN": "Bath ",
+            "TH": "บาท"
+        },
+        "time": {
+            "EN": "time ",
+            "TH": "เวลา"
+        },
+        "gender" : {
+            "EN": "Gender ",
+            "TH": "เพศ"
+        },
+        "communication": {
+            "EN": "Communication",
+            "TH": "การสื่อสาร"
+        },
+        "ageRange": {
+            "EN": "Age range",
+            "TH": "ช่วงอายุ"
+        },
+        "milegeStart": {
+            "EN": "Start Milege",
+            "TH": "เลขไมล์เริ่มขับ"
+        },
+        "milegeFinish": {
+            "EN": "Finish Milege",
+            "TH": "เลขไมล์สิ้นสุด"
+        },
+        "km": {
+            "EN": "Km.",
+            "TH": "(กม.)"
+        },
+        "all": {
+            "EN": "All",
+            "TH": "ทั้งหมด"
+        },
+        "year": {
+            "EN": "Year",
+            "TH": "ปี"
+        },
+        "noDataFound": {
+            "EN": "No data found",
+            "TH": "ไม่พบข้อมูล"
+        },
+
+        "headerSignIn": {
+            "EN": "Login",
+            "TH": "เข้าสู่ระบบ"
+        },
+        "headerRegister": {
+            "EN": "Register",
+            "TH": "สมัครสมาชิก"
+        },
+        "headerForgotPassword": {
+            "EN": "Forgot Password",
+            "TH": "ลืมรหัสผ่าน"
+        },
+        "headerLanguage": {
+            "EN": "Language",
+            "TH": "เปลี่ยนภาษา"
+        },
+        "headerChooseServiceArea": {
+            "EN": "Choose service area",
+            "TH": "เลือกพื้นที่"
+        },
+        "headerProfile": {
+            "EN": "Profile",
+            "TH": "ข้อมูลของฉัน"
+        },
+        "headerEditMyProfile": {
+            "EN": "Edit My Profile",
+            "TH": "แก้ไขข้อมูลของฉัน"
+        },
+        "headerChangePassword": {
+            "EN": "Change Password",
+            "TH": "เปลี่ยนรหัสผ่าน"
+        },
+        "headerNews": {
+            "EN": "All Promotion",
+            "TH": "ข่าวสารประชาสัมพันธ์ทั้งหมด"
+        },
+        "headerNewsDetail": {
+            "EN": "News Detail",
+            "TH": "รายละเอียด"
+        },
+        "headerJobDetail": {
+            "EN": "Job Detail",
+            "TH": "รายละเอียดงาน"
+        },
+        "headerNotification": {
+            "EN": "Notification",
+            "TH": "การแจ้งเตือน"
+        },
+        "headerCarInspection": {
+            "EN": "Car Inspection",
+            "TH": "การตรวจสภาพรถ"
+        },
+        "headerCarInspectionDetail": {
+            "EN": "Detail",
+            "TH": "รายละเอียด"
+        },
+        "headerCarInspectionGuide": {
+            "EN": "Guide",
+            "TH": "แนะนำ"
+        },
+        "headerCarInspectionRecapitulate": {
+            "EN": "recapitulate of car inspection",
+            "TH": "สรุปการตรวจสภาพรถ"
+        },
+        "headerMyImcome": {
+            "EN": "My Income",
+            "TH": "รายได้ของฉัน"
+        },
+        "headerMyImcomeDetail": {
+            "EN": "Detail",
+            "TH": "รายละเอียด"
+        },
+        "headerLevel": {
+            "EN": "My score",
+            "TH": "คะแนนของฉัน"
+        },
+
+        "login": {
+            "EN": "Login",
+            "TH": "เข้าสู่ระบบ"
+        },
+        "register": {
+            "EN": "Register",
+            "TH": "สมัครสมาชิก"
+        },
+        "skipMode": {
+            "EN": "Skip Mode",
+            "TH": "ผู้เยี่ยมชม"
+        },
+
+        "alertInputError":{
+            "EN": "Please check your parameters value.",
+            "TH": "กรุณาตรวจสอบข้อมูล"
+        },
+        "alertInputAbnormalError":{
+            "EN": "Please check your parameters value.",
+            "TH": "กรุณาใส่ข้อมูลให้ครบ"
+        },
+        "alertRegisterError":{
+            "EN": "Please check your parameters value.",
+            "TH": "กรุณาตรวจสอบข้อมูล"
+        },
+        "alertRegisterSuccess":{
+            "EN": "Success",
+            "TH": "สมัครเรียบร้อย"
+        },
+        "alertRequireError":{
+            "EN": "Please check your parameters value.",
+            "TH": "กรุณาตรวจสอบข้อมูล"
+        },
+        "alertForgotPasswordSuccess1":{
+            "EN": "Reset password successful.",
+            "TH": "รีเซ็ตรหัสผ่านเรียบร้อย"
+        },
+        "alertForgotPasswordSuccess2":{
+            "EN": "The system will send a new code to the registered email.",
+            "TH": "ระบบส่งรหัสผ่านใหม่เข้าอีเมลที่ระบุให้แล้ว"
+        },
+        "alertEditProfileSuccess":{
+            "EN": "Success",
+            "TH": "แก้ไขข้อมูลเรียบร้อย"
+        },
+        "alertChangPasswordSuccess":{
+            "EN": "Success",
+            "TH": "เปลี่ยนรหัสเรียบร้อย"
+        },
+        "alertSignOut": {
+            "EN": "You want to log out",
+            "TH": "คุณต้องการออกจากระบบ"
+        },
+
+        "menuHome":{
+            "EN": "Home",
+            "TH": "หน้าแรก"
+        },
+        "menuTask":{
+            "EN": "My Task",
+            "TH": "งานของฉัน"
+        },
+        "menuCall":{
+            "EN": "Call",
+            "TH": "โทรฉุกเฉิน"
+        },
+        "menuMyProfile":{
+            "EN": "Profile",
+            "TH": "ฉัน"
+        },
+
+        "loginUsername": {
+            "EN": "Email",
+            "TH": "อีเมล (สำหรับเข้าสู่ระบบ)"
+        },
+        "loginErrorUsername": {
+            "EN": "Can't find this email",
+            "TH": "ไม่พบอีเมล (สำหรับเข้าสู่ระบบ)"
+        },
+        "loginPassword": {
+            "EN": "Password",
+            "TH": "รหัสผ่าน"
+        },
+        "loginErrorPassword": {
+            "EN": "Error password",
+            "TH": "รหัสผ่านไม่ถูกต้อง"
+        },
+        "loginForgot": {
+            "EN": "Forgot ?",
+            "TH": "ลืมรหัสผ่าน?"
+        },
+        "loginButton": {
+            "EN": "Login",
+            "TH": "เข้าสู่ระบบ"
+        },
+
+
+        "forgotText": {
+            "EN": "The system will send a new password to the registered email.",
+            "TH": "ระบบจะส่งรหัสผ่านใหม่ไปทางอีเมลที่ลงทะเบียนไว้"
+        },
+        "forgotEmail": {
+            "EN": "E-Mail",
+            "TH": "อีเมล"
+        },
+        "requireForgotEmail": {
+            "EN": "Please input e-mail",
+            "TH": "กรุณาระบุอีเมล"
+        },
+        "forgotEmailError": {
+            "EN": "E-mail not found",
+            "TH": "ไม่พบอีเมลในระบบ"
+        },
+        "forgotButton": {
+            "EN": "Confirm",
+            "TH": "ยืนยันการทำรายการ"
+        },
+
+
+        "subscriptionInformation": {
+            "EN": "Subscription information",
+            "TH": "ข้อมูลการสมัครสมาชิก"
+        },
+        "registerNameTH": {
+            "EN": "Name (TH)",
+            "TH": "ชื่อ (ภาษาไทย)"
+        },
+        "registerNameEN": {
+            "EN": "Name (EN)",
+            "TH": "ชื่อ (ภาษาอังกฤษ)"
+        },
+        "placeholderEnterNameTH": {
+            "EN": "Enter name (TH)",
+            "TH": "กรอกชื่อ (ภาษาไทย)"
+        },
+        "placeholderEnterNameEN": {
+            "EN": "Enter name (EN)",
+            "TH": "กรอกชื่อ (ภาษาอังกฤษ)"
+        },
+        "requireRgisterNameTH": {
+            "EN": "Please input name (TH)",
+            "TH": "กรุณาระบุชื่อ (ภาษาไทย)"
+        },
+        "requireRgisterNameEN": {
+            "EN": "Please input name (EN)",
+            "TH": "กรุณาระบุชื่อ (ภาษาอังกฤษ)"
+        },
+        "hasBeenUsedFristname": {
+            "EN": "Fistname has been used.",
+            "TH": "ชื่อถูกใช้งานแล้ว"
+        },
+        "registerLastnameTH": {
+            "EN": "Surname (TH)",
+            "TH": "นามสกุล (ภาษาไทย)"
+        },
+        "registerLastnameEN": {
+            "EN": "Surname (EN)",
+            "TH": "นามสกุล (ภาษาอังกฤษ)"
+        },
+        "placeholderEnterLastnameTH": {
+            "EN": "Enter surname (TH)",
+            "TH": "กรอกนามสกุล (ภาษาไทย)"
+        },
+        "placeholderEnterLastnameEN": {
+            "EN": "Enter surname (EN)",
+            "TH": "กรอกนามสกุล (ภาษาอังกฤษ)"
+        },
+        "requireRgisterLastnameTH": {
+            "EN": "Please input surname (TH)",
+            "TH": "กรุณาระบุนามสกุล (ภาษาไทย)"
+        },
+        "requireRgisterLastnameEN": {
+            "EN": "Please input surname (EN)",
+            "TH": "กรุณาระบุนามสกุล (ภาษาอังกฤษ)"
+        },
+        "hasBeenUsedLastname": {
+            "EN": "Surname has been used.",
+            "TH": "นามสกุลถูกใช้งานแล้ว"
+        },
+        "registerEmail": {
+            "EN": "E-mail ",
+            "TH": "อีเมล"
+        },
+        "placeholderEnterEmail": {
+            "EN": "Enter E-mail",
+            "TH": "กรอกอีเมล"
+        },
+        "requireRgisterEmail": {
+            "EN": "Please input e-mail",
+            "TH": "กรุณาระบุอีเมล"
+        },
+        "hasBeenUsedEmail": {
+            "EN": "Not email.",
+            "TH": "กรุณาระบุอีเมลให้ถูกต้อง"
+        },
+        "registerTel": {
+            "EN": "Tel.",
+            "TH": "เบอร์โทรศัพท์"
+        },
+        "placeholderEnterTel": {
+            "EN": "Enter tel",
+            "TH": "กรอกเบอร์โทรศัพท์"
+        },
+        "requireRgisterTel": {
+            "EN": "Please input tel",
+            "TH": "กรุณาระบุเบอร์โทรศัพท์"
+        },
+        "hasBeenUsedTel": {
+            "EN": "Invalid tel format",
+            "TH": "กรุณาระบุเบอร์โทรศัพท์ให้ถูกต้อง"
+        },
+        "registerDateOfBirth": {
+            "EN": "Date of birth",
+            "TH": "วันเดือนปีเกิด"
+        },
+        "placeholderEnterDateOfBirth": {
+            "EN": "Enter date of birth",
+            "TH": "กรอกวันเดือนปีเกิด"
+        },
+        "requireRgisterDateOfBirth": {
+            "EN": "Please input date of birth",
+            "TH": "กรุณาระบุวันเดือนปีเกิด"
+        },
+        "registerGender": {
+            "EN": "Gender",
+            "TH": "เพศ"
+        },
+        "placeholderEnterGender": {
+            "EN": "Enter gender",
+            "TH": "กรอกเพศ"
+        },
+        "requireRgisterGender": {
+            "EN": "Please input gender",
+            "TH": "กรุณาระบุเพศ"
+        },
+        "male": {
+            "EN": "Male",
+            "TH": "เพศชาย"
+        },
+        "female": {
+            "EN": "Female",
+            "TH": "เพศหญิง"
+        },
+        "registerDriverLicense": {
+            "EN": "Driver's license",
+            "TH": "ใบอนุญาตขับรถเลขที่"
+        },
+        "placeholderEnterDriverLicense": {
+            "EN": "Enter driver's license",
+            "TH": "กรอกใบอนุญาตขับรถเลขที่"
+        },
+        "requireRgisterDriverLicense": {
+            "EN": "Please input driver's license",
+            "TH": "กรุณาระบุใบอนุญาตขับรถเลขที่"
+        },
+        "errorRgisterDriverLicense": {
+            "EN": "Please provide correct driving license information.",
+            "TH": "กรุณาระบุข้อมูลให้ถูกต้อง"
+        },
+        "hasBeenDriverLicense": {
+            "EN": "Please Input 8 Digit",
+            "TH": "กรุณากรอกให้ครบ 8 หลัก"
+        },
+        "driverExoirationDate": {
+            "EN": "Driver's expiration date",
+            "TH": "วันหมดอายุใบขับขี่"
+        },
+        "lifetimeDriverLicense" : {
+            "EN": "Lifetime driver's license",
+            "TH": "ใบอนุญาตขับรถตลอดชีพ"
+        },
+        "placeholderEnterDriverExoirationDate": {
+            "EN": "Enter driver's expiration date",
+            "TH": "กรอกวันหมดอายุใบขับขี่"
+        },
+        "requireRgisterDriverExoirationDate": {
+            "EN": "Please input driver's expiration date",
+            "TH": "กรุณาระบุวันหมดอายุใบขับขี่"
+        },
+        "chooseTypeOfCarGear": {
+            "EN": "Choose type of car gear",
+            "TH": "เลือกประเภทเกียร์"
+        },
+        "requireRgisterChooseTypeOfCarGear": {
+            "EN": "Please input choose type of car gear",
+            "TH": "กรุณาระบุเลือกประเภทเกียร์"
+        },
+        "chooseTypeOfCar": {
+            "EN": "Choose type of car",
+            "TH": "เลือกประเภทรถที่ขับ"
+        },
+        "requireRgisterChooseTypeOfCar": {
+            "EN": "Please input choose type of car",
+            "TH": "กรุณาระบุเลือกประเภทรถที่ขับ"
+        },
+        "serviceArea": {
+            "EN": "Service area",
+            "TH": "พื้นที่ให้บริการ"
+        },
+        "requireRgisterServiceArea": {
+            "EN": "Please input service area",
+            "TH": "กรุณาระบุพื้นที่ให้บริการ"
+        },
+        "registerSelectArea": {
+            "EN": "Select area",
+            "TH": "เลือกพื้นที่"
+        },
+        "moreThan": {
+            "EN": "(more than 1)",
+            "TH": "(เลือกได้มากกว่า1)"
+        },
+        "requireRgisterCommunication": {
+            "EN": "Please input communication",
+            "TH": "กรุณาระบุการสื่อสาร"
+        },
+        "serviceDay": {
+            "EN": "Service Day",
+            "TH": "วันที่สะดวกรับงาน"
+        },
+        "requireRgisterServiceDay": {
+            "EN": "Please input service day",
+            "TH": "กรุณาระบุวันที่สะดวกรับงาน"
+        },
+        "loginSetting": {
+            "EN": "Login Setting",
+            "TH": "ตั้งค่าการเข้าใช้งาน (Login)"
+        },
+        "registerUsername": {
+            "EN": "Email",
+            "TH": "อีเมล (สำหรับเข้าสู่ระบบ)"
+        },
+        "placeholderEnterUsername": {
+            "EN": "Enter email",
+            "TH": "กรอกอีเมล (สำหรับเข้าสู่ระบบ)"
+        },
+        "requireRgisterUsername": {
+            "EN": "Please input email",
+            "TH": "กรุณาระบุอีเมล (สำหรับเข้าสู่ระบบ)"
+        },
+        "hasBeenUsedUsername": {
+            "EN": "Email has been used.",
+            "TH": "อีเมลนี้ถูกใช้งานแล้ว"
+        },
+        "registerPassword": {
+            "EN": "Set Password",
+            "TH": "ตั้งรหัสผ่าน"
+        },
+        "placeholderEnterPassword": {
+            "EN": "Enter set password",
+            "TH": "กรอกตั้งรหัสผ่าน"
+        },
+        "requireRgisterPassword": {
+            "EN": "Please input set password",
+            "TH": "กรุณาระบุตั้งรหัสผ่าน"
+        },
+        "registerConfirmPassword": {
+            "EN": "Confirm Password",
+            "TH": "ยืนยันรหัสผ่าน"
+        },
+        "placeholderEnterConfirmPassword": {
+            "EN": "Enter confirm password",
+            "TH": "กรอกยืนยันรหัสผ่าน"
+        },
+        "requireRgisterConfirmPassword": {
+            "EN": "Please input confirm password",
+            "TH": "กรุณาระบุยืนยันรหัสผ่าน"
+        },
+        "errorRgisterPassword": {
+            "EN": "Password less than 6 character.",
+            "TH": "กรุณาระบุรหัสผ่านอย่างน้อย 6 ตัวขึ้นไป"
+        },
+        "errorRgisterConfirmPassword": {
+            "EN": "Confirm password invalid.",
+            "TH": "การยืนยันรหัสผ่านไม่ตรงกัน"
+        },
+        "privacy" : {
+            "EN": "Accept the Driver Terms of Service and Privacy Policy",
+            "TH": "ยอมรับเงื่อนไขการใช้บริการและนโยบายความเป็นส่วนตัวของ Driver"
+        },
+        "registerButtonConfirm": {
+            "EN": "Confirm",
+            "TH": "ยืนยันการสมัคร"
+        },
+        "serviceAreaButtonConfirm": {
+            "EN": "Confirm",
+            "TH": "ยืนยัน"
+        },
+        "serviceAreaSearch": {
+            "EN": "Search...",
+            "TH": "ค้นหา..."
+        },
+        "selectPhoto": {
+            "EN": "Select Photo",
+            "TH": "เลือกประเภท"
+        },
+        "takePhoto": {
+            "EN": "Take Photo",
+            "TH": "กล้องถ่ายรูป"
+        },
+        "pickImage": {
+            "EN": "Pick Image",
+            "TH": "แกลเลอรี"
+        },
+
+
+        "code": {
+            "EN": "Code",
+            "TH": "รหัส"
+        },
+        "level": {
+            "EN": "Level",
+            "TH": "ระดับ"
+        },
+        "score": {
+            "EN": "Score ",
+            "TH": "คะแนน "
+        },
+        "fullPoint": {
+            "EN": "(Full 5 points)",
+            "TH": "(เต็ม 5 คะแนน)"
+        },
+        "profileDriverFemale": {
+            "EN": "Female",
+            "TH": "หญิง"
+        },
+        "profileDriverMale": {
+            "EN": "Male",
+            "TH": "ชาย"
+        },
+        "profileDriverGender": {
+            "EN": "Gender",
+            "TH": "เพศ"
+        },
+        "profileDriverAge": {
+            "EN": "Age",
+            "TH": "อายุ"
+        },
+        "profileDriverYearsOld": {
+            "EN": "years old",
+            "TH": "ปี"
+        },
+        "profileDateOfBirth": {
+            "EN": "Date of Birth",
+            "TH": "วันเดือนปีเกิด"
+        },
+        "profileTel": {
+            "EN": "Tel.",
+            "TH": "เบอร์โทรศัพท์"
+        },
+        "profileEmail": {
+            "EN": "E-mail.",
+            "TH": "อีเมล"
+        },
+        "profileDrivingLicense": {
+            "EN": "Driving License",
+            "TH": "ใบอนุญาตขับรถเลขที่"
+        },
+        "profileDriverExoirationDate": {
+            "EN": "Driver's expiration date",
+            "TH": "วันหมดอายุใบขับขี่"
+        },
+        "profileCarGear": {
+            "EN": "Car Gear (can be driven)",
+            "TH": "ประเภทเกียร์ที่ขับได้"
+        },
+        "profileCarType": {
+            "EN": "Car Type (can be driven)",
+            "TH": "ประเภทรถที่ขับได้"
+        },
+        "profileServiceArea": {
+            "EN": "Service area",
+            "TH": "พื้นที่ให้บริการ"
+        },
+        "profileCommunication": {
+            "EN": "Communication",
+            "TH": "การสื่อสาร "
+        },
+        "profileServiceDay": {
+            "EN": "Service Day",
+            "TH": "วันที่สะดวกรับงาน"
+        },
+        "profileEditProfile": {
+            "EN": "Edit Profile",
+            "TH": "แก้ไขข้อมูลของฉัน"
+        },
+        "profileChangePassword": {
+            "EN": "Change Password",
+            "TH": "เปลี่ยนรหัสผ่าน"
+        },
+
+
+        "dateOfBirth": {
+            "EN": "Date of Birth",
+            "TH": "วันเดือนปีเกิด"
+        },
+        "email": {
+            "EN": "E-mail",
+            "TH": "อีเมล"
+        },
+        "carType": {
+            "EN": "Car Type (can be driven)",
+            "TH": "ประเภทรถที่ขับได้"
+        },
+        "carGear": {
+            "EN": "Car Gear (can be driven)",
+            "TH": "ประเภทเกียร์ที่ขับได้"
+        },
+        "drivingLicense": {
+            "EN": "Driver's license",
+            "TH": "ใบอนุญาตขับรถเลขที่"
+        },
+        "tel": {
+            "EN": "Tel.",
+            "TH": "เบอร์โทรศัพท์"
+        },
+        "close": {
+            "EN": "Close",
+            "TH": "ปิดหน้าต่าง"
+        },
+        "editBtnConfirm": {
+            "EN": "Confirm",
+            "TH": "ยืนยันการแก้ไข"
+        },
+
+
+        "oldPassword": {
+            "EN": "Current Password",
+            "TH": "รหัสผ่านปัจจุบัน"
+        },
+        "newPassword": {
+            "EN": "New Password",
+            "TH": "รหัสผ่านใหม่"
+        },
+        "confirmNewPassword": {
+            "EN": "Confirm New Password",
+            "TH": "ยืนยันรหัสผ่านใหม่"
+        },
+        "btnConfirmPassword": {
+            "EN": "Confirm",
+            "TH": "ยืนยันการเปลี่ยนรหัสผ่าน"
+        },
+
+        "menuLevel": {
+            "EN": "My score",
+            "TH": "คะแนนของฉัน"
+        },
+        "menuServiceRating": {
+            "EN": "Service Rating",
+            "TH": "คะแนนให้บริการ"
+        },
+        "menuProfile": {
+            "EN": "Profile",
+            "TH": "ข้อมูลคนขับ"
+        },
+        "menuMyPerformance": {
+            "EN": "My Performance",
+            "TH": "คะแนนของฉัน"
+        },
+        "menuMyIncome": {
+            "EN": "My Income",
+            "TH": "รายได้ของฉัน"
+        },
+        "menuChangeLanguage": {
+            "EN": "Change Language",
+            "TH": "เปลี่ยนภาษา"
+        },
+        "menuTermAndConditions": {
+            "EN": "Term and Conditions",
+            "TH": "ข้อกำหนดและเงื่อนไข"
+        },
+        "menuPrivacyPolicy": {
+            "EN": "Privacy Policy",
+            "TH": "นโยบายความเป็นส่วนตัว"
+        },
+        "menuLogout": {
+            "EN": "Log out",
+            "TH": "ออกจากระบบ"
+        },
+        "version": {
+            "EN": "Version",
+            "TH": "เวอร์ชั่น"
+        },
+
+        "myTark": {
+            "EN": "My Task",
+            "TH": "งานของฉัน"
+        },
+        "allTark": {
+            "EN": "All Task",
+            "TH": "งานทั้งหมด"
+        },
+        "allNews": {
+            "EN": "See All",
+            "TH": "ดูทั้งหมด"
+        },
+        "newsPromotion": {
+            "EN": "News Promotion",
+            "TH": "ข่าวสารประชาสัมพันธ์"
+        },
+        "profile": {
+            "EN": "Profile",
+            "TH": "ข้อมูลส่วนตัว"
+        },
+
+
+        "skipModeName": {
+            "EN": "Skip Mode",
+            "TH": "สวัสดี ผู้เยี่ยมชม"
+        },
+        "skipModeAction": {
+            "EN": "Register / Login",
+            "TH": "สมัครสมาชิก / เข้าสู่ระบบ"
+        },
+        "skipModeJobList": {
+            "EN": "Job list history",
+            "TH": "ประวัติรายการงาน"
+        },
+        "skipModeMemberCode": {
+            "EN": "Code",
+            "TH": "รหัส"
+        },
+ 
+
+        "newsDetail": {
+            "EN": "News Detail",
+            "TH": "รายละเอียด"
+        },
+
+
+        "callPhoneNumber": {
+            "EN": "069999999",
+            "TH": "069999999"
+        },
+        "callEmergency": {
+            "EN": "Emergency call",
+            "TH": "โทรฉุกเฉิน"
+        },
+        "callCenter": {
+            "EN": "Call Center",
+            "TH": "ศูนย์รับแจ้ง"
+        },
+
+        "MyTaskNoTask": {
+            "EN": "No Task",
+            "TH": "ยังไม่มีงาน"
+        },
+        "StartOnTask": {
+            "EN": "Start on get the task",
+            "TH": "เริ่มรับงานครั้งแรกกันเถอะ !!"
+        },
+        "MyTaskAllTask": {
+            "EN": "All Task",
+            "TH": "ทั้งหมด"
+        },
+        "MyTaskPending": {
+            "EN": "Pending",
+            "TH": "รอตอบรับ"
+        },
+        "MyTaskAccepted": {
+            "EN": "Accepted",
+            "TH": "ตอบรับแล้ว"
+        },
+        "MyTaskRequest": {
+            "EN": "Pending",
+            "TH": "รอตอบรับ"
+        },
+        "MyTaskComming": {
+            "EN": "Comming",
+            "TH": "งานที่ใกล้จะถึง"
+        },
+        "MyTaskUpcommingJob": {
+            "EN": "Upcomming Job",
+            "TH": "กำลังเดินทาง"
+        },
+        "MyTaskSuccess": {
+            "EN": "Success",
+            "TH": "สำเร็จ"
+        },
+        "TaskNo": {
+            "EN": "Task No",
+            "TH": "เลขที่งาน"
+        },
+        "MyTaskConfirmJob": {
+            "EN": "Confirm Job ?",
+            "TH": "ยืนยันการเริ่มงาน"
+        },
+        "MyTaskCustomerCancel": {
+            "EN": "Customer Cancel ?",
+            "TH": "ยกเลิกโดยลูกค้า"
+        },
+        "MyTaskDriverCancel": {
+            "EN": "Driver Cancel ?",
+            "TH": "ยกเลิกโดยคนขับ"
+        },
+        "MyTaskEarnMoney": {
+            "EN": "Earn Money",
+            "TH": "งานนี้จะได้รับ"
+        },
+        "MyTaskOvertime": {
+            "EN": "Overtime earning per hours x bath",
+            "TH": "เกินเวลาจะได้รับชั่วโมงละ x บาท"
+        },
+        "MyTaskTravelInfo": {
+            "EN": "Travel Info",
+            "TH": "การเดินทาง"
+        },
+        "MyTaskSpecialRequest": {
+            "EN": "Special Request",
+            "TH": "Special Request"
+        },
+        "MyTaskUsePackage": {
+            "EN": "Use Package",
+            "TH": "ใช้ Package"
+        },
+        "MyTaskArrivingSoon": {
+            "EN": "Arriving Soon",
+            "TH": "กำลังจะถึง"
+        },
+        "MyTaskConfirmstart": {
+            "EN": "Confirm to start job",
+            "TH": "ยืนยันการเริ่มงาน"
+        },
+        "MyTaskArrivingIn": {
+            "EN": "Arriving in …",
+            "TH": "กำลังจะถึง ภายในเวลา ?"
+        },
+        "MyTaskInformPassenger": {
+            "EN": "Inform passenger that you will arrive within …",
+            "TH": "แจ้งผู้โดยสารว่าจะถึงในอีก"
+        },
+        "MyTaskChooseSymtoms": {
+            "EN": "Choose symtoms",
+            "TH": "เลือกสาเหตุ"
+        },
+        "MyTaskTrafficJam": {
+            "EN": "Traffic Jam",
+            "TH": "รถติด"
+        },
+        "MyTaskCarWasBrokenDown": {
+            "EN": "Car was broken down",
+            "TH": "รถเสีย"
+        },
+        "MyTaskLost": {
+            "EN": "Lost",
+            "TH": "หลงทาง"
+        },
+        "MyTaskOther": {
+            "EN": "Other (Specify)",
+            "TH": "อื่นๆ (ระบุ)"
+        },
+        "dateTimeBookingMyTask": {
+            "EN": "Booking Pick Up",
+            "TH": "จองไปรับ"
+        },
+        "dateTimeEndMyTask": {
+            "EN": "Booking Drop Off ",
+            "TH": "จองไปส่ง"
+        },
+        "dateTimeFinishMyTask": {
+            "EN": "Work End",
+            "TH": "จบงานจริง"
+        },
+        "dateTimeStartMyTask": {
+            "EN": "Work Start",
+            "TH": "เริ่มงานจริง"
+        },
+        "MyTaskBookingBy": {
+            "EN": "Booking By",
+            "TH": "จองโดย"
+        },
+        "MyTaskCustomer": {
+            "EN": "Passenger:",
+            "TH": "ผู้โดยสาร"
+        },
+
+        "statusNewJob": {
+            "EN": "New Job",
+            "TH": "งานใหม่"
+        },
+        "statusSuccessfulJourney": {
+            "EN": "Successful journey",
+            "TH": "เดินทางสำเร็จ"
+        },
+        "statusComing": {
+            "EN": "Coming",
+            "TH": "งานใกล้จะมาถึง"
+        },
+        "statusWaitingForReply": {
+            "EN": "Waiting for customers confirm",
+            "TH": "รอลูกค้ายืนยันเริ่มงาน"
+        },
+        "statusConfirmStart": {
+            "EN": "Confirm start",
+            "TH": "ยืนยันการเริ่มงาน"
+        },
+        "statusAccepted": {
+            "EN": "Accepted",
+            "TH": "งานที่ตอบรับ"
+        },
+        "statusConfirmJob": {
+            "EN": "Confirm start",
+            "TH": "ยืนยันการเริ่มงาน"
+        },
+        "statusGoing": {
+            "EN": "Traveling",
+            "TH": "กำลังเดินทาง"
+        },
+        "statusCanceledByTheCustomer": {
+            "EN": "Canceled by the customer",
+            "TH": "ยกเลิกโดยลูกค้า"
+        },
+        "statusCanceledByTheDriver": {
+            "EN": "Canceled by the driver",
+            "TH": "ยกเลิกโดยคนขับ"
+        },
+        "statusAutomaticallyIn15Minutes": {
+            "EN": "In 15 minutes it will automatically finish the job.",
+            "TH": "อีก 15 นาทีจะจบงานอัตโนมัติ"
+        },
+        "statusWantToCustomerToDelay": {
+            "EN": "If you do not want to finish it, please inform the customer to delay it.",
+            "TH": "หากยังไม่ต้องการจบกรุณาแจ้งลูกค้าให้เลื่อนเวลา"
+        },
+        "statusPostponeTheEndOfWork": {
+            "EN": "Postpone the end of work",
+            "TH": "เลื่อนเวลาจบงานเป็น"
+        },
+        "statusNotification1": {
+            "EN": "Another 12 hours will be time to start work.",
+            "TH": "อีก 12 ชม. จะถึงเวลาเริ่มงาน"
+        },
+        "statusNotification2": {
+            "EN": "Another 1 hours will be time to start work.",
+            "TH": "อีก 1 ชม. จะถึงเวลาเริ่มงาน"
+        },
+        "statusTheTimeIsOverNow": {
+            "EN": "The time is over now.",
+            "TH": "ขณะนี้เกินเวลาจบงาน"
+        },
+        "timeToFinish": {
+            "EN": "Time to finish your work",
+            "TH": "เวลาจบงานของคุณคือ"
+        },
+        "more": {
+            "EN": "more",
+            "TH": "อีก"
+        },
+        "hour": {
+            "EN": "hour",
+            "TH": "ชั่วโมง"
+        },
+        "minute": {
+            "EN": "minute",
+            "TH": "น."
+        },
+        "jobNumber": {
+            "EN": "Job Number",
+            "TH": "เลขที่งาน"
+        },
+        "earnMoney": {
+            "EN": "Earn money",
+            "TH": "งานนี้จะได้รับ"
+        },
+        "overtimeEarning": {
+            "EN": "Overtime earning per hours",
+            "TH": "เกินเวลาจะได้รับชั่วโมงละ"
+        },
+        "travelInfo": {
+            "EN": "Travel Info",
+            "TH": "การเดินทาง"
+        },
+        "specialRequest": {
+            "EN": "Special Request",
+            "TH": "Special Request"
+        },
+        "usePackage": {
+            "EN": "Use Package",
+            "TH": "ใช้ Package"
+        },
+        "times": {
+            "EN": "Times",
+            "TH": "ครั้ง"
+        },
+        "balance": {
+            "EN": "Balance",
+            "TH": "คงเหลือ"
+        },
+        "use": {
+            "EN": "Use",
+            "TH": "ใช้"
+        },
+        "pleaseAllow": {
+            "EN": "Please allow your time 30 minutes or more for check vehicle condition before travel.",
+            "TH": "กรุณาเผื่อเวลาตรวจสภาพรถ 30 นาที ก่อนการเดินทาง"
+        },
+        "btnMyTaskDetailConfirmStart": {
+            "EN": "Confirm start",
+            "TH": "ยืนยันการเริ่มงาน"
+        },
+        "btnMyTaskDetailComing": {
+            "EN": "กำลังจะถึง",
+            "TH": "กำลังจะถึง"
+        },
+        "btnMyTaskDetailCancel": {
+            "EN": "Cancel",
+            "TH": "ปฎิเสธ"
+        },
+        "btnMyTaskDetailAccpetJob": {
+            "EN": "Accpet Job",
+            "TH": "รับงาน"
+        },
+        "btnMyTaskDetailCancelJob": {
+            "EN": "Cancel job",
+            "TH": "ยกเลิกงาน"
+        },
+        "btnMyTaskDetailGoHome": {
+            "EN": "Home",
+            "TH": "กลับหน้าหลัก"
+        },
+        "btnMyTaskDetailFinishWork": {
+            "EN": "Finish work",
+            "TH": "จบงาน, ส่งผู้โดยสาร"
+        },
+        "modalCannotAcceptedJob1": {
+            "EN": "ยืนยันการยกเลิกงานนี้ใช่ไหม ?",
+            "TH": "ยืนยันการยกเลิกงานนี้ใช่ไหม ?"
+        },
+        "modalCannotAcceptedJob2": {
+            "EN": "Cannot make transaction. Someone has accepted this job.",
+            "TH": "คำเตือน: ระบบจะหักคะแนน Rating"
+        },
+        "modalCannotAccepted": {
+            "EN": "Cannot make transaction. Someone has accepted this job.",
+            "TH": "ไม่สามารถทำรายการได้มีคนรับงานนี้แล้ว"
+        },
+        "modalRejectJob": {
+            "EN": "Reject job ?",
+            "TH": "ยืนยันการปฏิเสธงาน ?"
+        },
+        "modalTimeOut": {
+            "EN": "The job has expired.",
+            "TH": "หมดระยะเวลาของการรับงานแล้ว"
+        },
+        "alreadyAcceptedTheJob": {
+            "EN": "Already accepted the job during this time",
+            "TH": " รับงานในช่วงเวลานี้ไปแล้ว"
+        },
+        "modalHaveYouFinished": {
+            "EN": "Have you finished your trip?",
+            "TH": "เสร็จสิ้นการเดินทางแล้วใช่หรือไม่?"
+        },
+        "enterTheEndingMileage": {
+            "EN": "Enter the ending mileage (km)",
+            "TH": "กรอกเลขไมล์สิ้นสุด (กม.)"
+        },
+        "unableToEndJob": {
+            "EN": "Unable to end job",
+            "TH": "ไม่สามารถจบงานได้"
+        },
+        "textCheckTheCar": {
+            "EN": "Wait for the vehicle inspection confirmation from passengers. Please inform the passenger to confirm the vehicle inspection.",
+            "TH": "รอยืนยันการตรวจสภาพรถจากผู้โดยสารกรุณาแจ้งให้ผู้โดยสารยืนยันการตรวจสภาพรถ"
+        },
+        "selectCause": {
+            "EN": "Select a cause",
+            "TH": "เลือกสาเหตุ"
+        },
+        "note": {
+            "EN": "Note",
+            "TH": "หมายเหตุ"
+        },
+        
+
+        "carInspection": {
+            "EN": "Car Inspection",
+            "TH": "การตรวจสภาพรถ"
+        },
+        "externalConditions": {
+            "EN": "External conditions",
+            "TH": "ตรวจสภาพภายนอกรถ"
+        },
+        "checklistBeforeDrive": {
+            "EN": "Car Condition checklist before drive",
+            "TH": "รายการตรวจเช็คสภาพรถยนต์ก่อนใช้งาน"
+        },
+        "milege": {
+            "EN": "Milege",
+            "TH": "เลขไมล์ขับ (กม.)"
+        },
+        "enterStartMilege": {
+            "EN": "Enter Start Milege",
+            "TH": "กรอกเลขไมล์เริ่มขับ (กม.)"
+        },
+        "gearSystem": {
+            "EN": "Gear System",
+            "TH": "ระบบเกียร์"
+        },
+        "fuelType": {
+            "EN": "Engine Type",
+            "TH": "ประเภทเครื่องยนต์"
+        },
+        "startMilege": {
+            "EN": "Start Milege",
+            "TH": "เลขไมล์เริ่มขับ (กม.)"
+        },
+        "finishMilege": {
+            "EN": "Finish Milege",
+            "TH": "เลขไมล์สิ้นสุด (กม.)"
+        },
+        "guide": {
+            "EN": "Guide",
+            "TH": "แนะนำ"
+        },
+        "next": {
+            "EN": "Next",
+            "TH": "ถัดไป"
+        },
+        "part": {
+            "EN": "Part",
+            "TH": "ส่วนที่"
+        },
+        "point": {
+            "EN": "Point",
+            "TH": "จุดที่"
+        },
+        "chooseCheckpoin": {
+            "EN": "Choose a checkpoin",
+            "TH": "เลือกจุดตรวจสอบ :"
+        },
+        "normal": {
+            "EN": "Normal",
+            "TH": "ปกติ"
+        },
+        "abnormal": {
+            "EN": "Abnormal",
+            "TH": "ผิดปกติ"
+        },
+        "explainAbnormalities": {
+            "EN": "Explain abnormalities",
+            "TH": "อธิบายสิ่งที่ผิดปกติ... *"
+        },
+        "uploadPicture": {
+            "EN": "Upload picture",
+            "TH": "Upload รูป"
+        },
+        "uploadMaxPicture": {
+            "EN": "Max 2 picture",
+            "TH": "สูงสุด 2 รูป"
+        },
+        "carInspectionAlertt1": {
+            "EN": "Car inspection picture",
+            "TH": "รูปการตรวจสภาพรถ"
+        },
+        "carInspectionTitleAlerttDeleteImg": {
+            "EN": "Delete picture",
+            "TH": "ลบรูปภาพ"
+        },
+        "carInspectionTitleAlerttChangStatus": {
+            "EN": "Confirm change of vehicle inspection or not?",
+            "TH": "ยืนยันเปลี่ยนการตรวจสภาพรถใช่หรือไม่ ?"
+        },
+        "carInspectionSubTitleAlerttChangStatus": {
+            "EN": "Note: Any abnormal information entered will be deleted.",
+            "TH": "หมายเหตุ: ข้อมูลผิดปกติที่คุณกรอกไว้จะถูกลบ"
+        },
+        "carInspectionMessage": {
+            "EN": "Message",
+            "TH": "ระบุข้อความ"
+        },
+        "carInspectionPlaceholderGuidance": {
+            "EN": "If change a car please input ramark here",
+            "TH": "กรณีที่มีการเปลี่ยนรถให้ใส่ remark"
+        },
+        "carInspectionGuidance": {
+            "EN": "Feedback/Suggestion",
+            "TH": "ข้อเสนอแนะ/คำแนะนำ"
+        },
+        "carInspectionPicture": {
+            "EN": "Car inspection picture",
+            "TH": "รูปการตรวจสภาพรถ"
+        },
+        "btnCarInspectionLater": {
+            "EN": "Later",
+            "TH": "ไว้ทีหลัง"
+        },
+        "btnCarInspectionStart": {
+            "EN": "Start",
+            "TH": "เริ่มตรวจสภาพรถ"
+        },
+        "btnCarInspectionNext": {
+            "EN": "Next",
+            "TH": "ถัดไป"
+        },
+        "btnCarInspectionNextStep": {
+            "EN": "Next Step",
+            "TH": "ตรวจหน้าที่"
+        },
+        "btnCarInspectionTestResultNextStep": {
+            "EN": "Next Step",
+            "TH": "ผลตรวจหน้าที่"
+        },
+        "btnCarInspectionSuccess": {
+            "EN": "Success",
+            "TH": "เสร็จสิ้นการตรวจ"
+        },
+        "btnCarInspectionConfrim": {
+            "EN": "Confrim",
+            "TH": "ยืนยัน"
+        },
+
+        
+        "income": {
+            "EN": "Income",
+            "TH": "รายได้ปี"
+        },
+        "incomeReceiveAll": {
+            "EN": "Received",
+            "TH": "ได้รับแล้ว"
+        },
+        "incomeWaitAllPay": {
+            "EN": "Wait For Pay",
+            "TH": "รอจ่าย"
+        },
+        "incomeCancelAll": {
+            "EN": "Cancel All",
+            "TH": "ยกเลิกทั้งหมด"
+        },
+        "myIncome": {
+            "EN": "My Income",
+            "TH": "ข้อมูลรายได้ของฉัน"
+        },
+        "incomeBntSuccess": {
+            "EN": "Success",
+            "TH": "จ่ายแล้ว"
+        },
+        "incomeBntAll": {
+            "EN": "All",
+            "TH": "สถานะทั้งหมด"
+        },
+        "incomeBntWait": {
+            "EN": "Wait",
+            "TH": "รอดำเนินการ"
+        },
+        "incomeAmount": {
+            "EN": "Amount",
+            "TH": "จำนวน"
+        },
+        "incomeDateOfAcceptance": {
+            "EN": "Date of acceptance",
+            "TH": "วันที่รับงาน"
+        },
+        "incomeOvertimeReceivedRate": {
+            "EN": "Overtime received rate",
+            "TH": "งานที่ได้รับ (ชั่วโมงปกติ)"
+        },
+        "incomeReceivedRate": {
+            "EN": "Received rate",
+            "TH": "งานที่ได้รับ (เกินเวลา)"
+        },
+        "incomeAllReceived": {
+            "EN": "All received",
+            "TH": "ยอดรวมรายได้ครั้งนี้"
+        },
+        "incomeCurrentDate": {
+            "EN": "Current date",
+            "TH": "วันที่ปัจจุบัน"
+        },
+        
+
+        "levelMaxLevel": {
+            "EN": "คะแนนเต็ม 5 คะแนน",
+            "TH": "คะแนนเต็ม 5 คะแนน"
+        },
+        "levelTitle": {
+            "EN": "Level datail",
+            "TH": "รายละเอียดคะแนน"
+        },
+        "levelAcceptanceJob": {
+            "EN": "Receive All",
+            "TH": "รับงานแล้วทั้งหมด"
+        },
+        "levelSuccessJob": {
+            "EN": "Success All",
+            "TH": "สำเร็จทั้งหมด"
+        },
+        "levelCancelJob": {
+            "EN": "Cancel All",
+            "TH": "ยกเลิกทั้งหมด"
+        },
+        "levelDetail1": {
+            "EN": "1) คนขับไปถึงจุดนัดหมายตรงเวลา ?",
+            "TH": "1) คนขับไปถึงจุดนัดหมายตรงเวลา ?"
+        },
+        "levelDetail2": {
+            "EN": "2) คนขับให้บริการด้วยความสุภาพ",
+            "TH": "2) คนขับให้บริการด้วยความสุภาพ"
+        },
+        "levelDetail3": {
+            "EN": "3) คนขับ ขับรถด้วยความระมัดระวัง และเครารพกฎจราจร",
+            "TH": "3) คนขับ ขับรถด้วยความระมัดระวัง และเครารพกฎจราจร"
+        }
+    }
+}

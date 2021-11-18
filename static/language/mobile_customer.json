@@ -1,0 +1,1735 @@
+{
+  "language_list": [
+    {
+      "value": "TH",
+      "title": "ภาษาไทย",
+      "default": true
+    },
+    {
+      "value": "EN",
+      "title": "English"
+    }
+  ],
+  "language_data": {
+    "login": {
+      "TH": "เข้าสู่ระบบ",
+      "EN": "Login"
+    },
+    "register": {
+      "TH": "สมัครสมาชิก",
+      "EN": "Register"
+    },
+    "guest": {
+      "TH": "ผู้เยี่ยมชม",
+      "EN": "Guest"
+    },
+    "loading": {
+      "TH": "กำลังดาวโหลด....",
+      "EN": "Loading...."
+    },
+    "username": {
+      "TH": "บัญชีผู้ใช้งาน",
+      "EN": "Username"
+    },
+    "password": {
+      "TH": "รหัสผ่าน",
+      "EN": "Password"
+    },
+    "forgotpassword": {
+      "TH": "ลืมรหัสผ่าน",
+      "EN": "Forgot password"
+    },
+    "email": {
+      "TH": "อีเมล",
+      "EN": "Email"
+    },
+    "confirm": {
+      "TH": "ยืนยัน",
+      "EN": "Confirm"
+    },
+    "homepage": {
+      "TH": "หน้าหลัก",
+      "EN": "HomeP"
+    },
+    "allpromotion": {
+      "TH": "โปรโมชั่นทั้งหมด",
+      "EN": "All Promotion"
+    },
+    "detail": {
+      "TH": "รายละเอียด",
+      "EN": "Detail"
+    },
+    "cancel": {
+      "TH": "ยกเลิก",
+      "EN": "Cancel"
+    },
+    "error_network": {
+      "TH": "กรุณาตรวจสอบสัญญาณอินเตอร์เน็ต",
+      "EN": "Error network."
+    },
+    "edit": {
+      "TH": "แก้ไข",
+      "EN": "edit"
+    },
+    "notification": {
+      "TH": "การแจ้งเตือน",
+      "EN": "Notification"
+    },
+    "no_data": {
+      "TH": "ไม่มีข้อมูล",
+      "EN": "No data."
+    },
+    "homescreen": {
+      "TH": "หน้าหลัก",
+      "EN": "Home"
+    },
+    "calldriverscreen": {
+      "TH": "เรียก Driver",
+      "EN": "Driver"
+    },
+    "packagescreen": {
+      "TH": "แพ็กเกจ",
+      "EN": "Package"
+    },
+    "emergencycallscreen": {
+      "TH": "โทรฉุกเฉิน",
+      "EN": "EmergencyCall"
+    },
+    "profilescreen": {
+      "TH": "ฉัน",
+      "EN": "Profile"
+    },
+    "pickimagetype": {
+      "TH": "เลือกประเภท",
+      "EN": "Select"
+    },
+    "takephoto": {
+      "TH": "ถ่ายถาพ",
+      "EN": "Take Photo."
+    },
+    "pickimage": {
+      "TH": "เลือกรูปภาพ",
+      "EN": "Pick image."
+    },
+    "registerprofile": {
+      "TH": "ข้อมูลส่วนตัว",
+      "EN": "Register Profile."
+    },
+    "firstname": {
+      "TH": "ชื่อ",
+      "EN": "Firstname"
+    },
+    "lastname": {
+      "TH": "นามสกุล",
+      "EN": "Lastname"
+    },
+    "tel": {
+      "TH": "เบอร์โทรศัพท์",
+      "EN": "Tel."
+    },
+    "email_login": {
+      "TH": "อีเมล (สำหรับเข้าสู่ระบบ)",
+      "EN": "Email (for login)"
+    },
+    "email_register": {
+      "TH": "อีเมล (ใช้สำหรับเข้าสู่ระบบ)",
+      "EN": "Email (used for login)"
+    },
+    "loginsetting": {
+      "TH": "ตั้งค่าการใช้งาน",
+      "EN": "Login Setting."
+    },
+    "r_username": {
+      "TH": "บัญชีผู้ใช้งาน (Username)",
+      "EN": "Username"
+    },
+    "confirmpassword": {
+      "TH": "ยืนยันรหัสผ่าน",
+      "EN": "Confirm Password"
+    },
+    "register_company": {
+      "TH": "ต้องการสมัครเป็นผู้ใช้งานประเภท นิติบุคคล",
+      "EN": "Register on behalf of the company."
+    },
+    "companyname": {
+      "TH": "ชื่อบริษัท",
+      "EN": "Company Name"
+    },
+    "taxnumber": {
+      "TH": "เลขประจำตัวผู้เสียภาษี",
+      "EN": "Tax Number"
+    },
+    "read_terms": {
+      "TH": "ยอมรับเงื่อนไขการใช้บริการและนโยบายความเป็นส่วนตัวของ VRdriver",
+      "EN": "Read terms of service and privacy policy."
+    },
+    "confirm_register": {
+      "TH": "ยืนยันการสมัคร",
+      "EN": "Register"
+    },
+    "err_firstname": {
+      "TH": "กรุณาระบุชื่อ",
+      "EN": "Please input firstname."
+    },
+    "err_lastname": {
+      "TH": "กรุณาระบุนามสกุล",
+      "EN": "Please input lastname."
+    },
+    "err_tel": {
+      "TH": "กรุณาระบุเบอร์โทรศัพท์",
+      "EN": "Please input tel.."
+    },
+    "err_email_1": {
+      "TH": "กรุณาระบุอีเมล",
+      "EN": "Please input email."
+    },
+    "err_email_2": {
+      "TH": "กรุณาระบุอีเมลให้ถูกต้อง",
+      "EN": "Not email."
+    },
+    "err_username_1": {
+      "TH": "กรุณาระบุบัญชีผู้ใช้งาน",
+      "EN": "Please input username."
+    },
+    "err_username_2": {
+      "TH": "กรุณาระบุไม่ต่ำกว่า 6 ตัวอักษร",
+      "EN": "Please enter 6 or more characters."
+    },
+    "err_username_3": {
+      "TH": "ระบุได้แค่ ตัวอักษรภาษาอังกฤษ หรือ ตัวเลขเท่านั้น",
+      "EN": "Only allow English characters and numbers."
+    },
+    "err_password_1": {
+      "TH": "กรุณาระบุรหัสผ่าน",
+      "EN": "Please input password."
+    },
+    "err_password_2": {
+      "TH": "กรุณาระบุรหัสผ่านไม่ต่ำกว่า 6 ตัวอักษร",
+      "EN": "Please enter 6 or more characters."
+    },
+    "err_password_3": {
+      "TH": "รหัสผ่านระบุได้แค่ ตัวอักษรภาษาอังกฤษ หรือ ตัวเลขเท่านั้น",
+      "EN": "Only allow English characters and numbers."
+    },
+    "err_password2_1": {
+      "TH": "กรุณายืนยันรหัสผ่าน",
+      "EN": "Please confirm password."
+    },
+    "err_password2_2": {
+      "TH": "การยืนยันรหัสผ่านไม่ตรงกัน",
+      "EN": "Confirm password invalid."
+    },
+    "err_companyname": {
+      "TH": "กรุณาระบุชื่อบริษัท",
+      "EN": "Please input company name."
+    },
+    "err_taxnumber": {
+      "TH": "กรุณาระบุเลขประจำตัวผู้เสียภาษี",
+      "EN": "Please input tax number."
+    },
+    "err_policy": {
+      "TH": "กรุณาติ๊กถูกช่อง ยอมรับเงื่อนไขการใช้บริการ",
+      "EN": "Please check terms of service and privacy policy."
+    },
+    "complete_register_1": {
+      "TH": "สมัครสมาชิกสำเร็จ",
+      "EN": "Already registered."
+    },
+    "complete_register_2": {
+      "TH": "กดยืนยัน เพื่อเข้าสู่ระบบ",
+      "EN": "Already registered."
+    },
+    "complete_confirm": {
+      "TH": "ยืนยัน",
+      "EN": "Confirm"
+    },
+    "forgotpassword_msg_1": {
+      "TH": "ระบบจะส่งรหัสใหม่ไปทางอีเมลที่ลงทะเบียนใว้",
+      "EN": "The system will send a new code to the registered email."
+    },
+    "forgotpassword_complete": {
+      "TH": "รีเซ็ตรหัสผ่านเรียบร้อย",
+      "EN": "Reset password successful."
+    },
+    "forgotpassword_complete_msg": {
+      "TH": "ระบบส่งรหัสผ่านใหม่เข้าอีเมลที่ระบุให้แล้ว",
+      "EN": "The system will send a new code to the registered email."
+    },
+    "hi_guest": {
+      "TH": "สวัสดี ผู้เยี่ยมชม",
+      "EN": "Hi Guest."
+    },
+    "register_login": {
+      "TH": "สมัครสมาชิก / เข้าสู่ระบบ",
+      "EN": "Register / Login"
+    },
+    "promotion": {
+      "TH": "โปรโมชั่น",
+      "EN": "Promotion"
+    },
+    "see_all_promotion": {
+      "TH": "ดูทั้งหมด",
+      "EN": "See all."
+    },
+    "driver_recommend": {
+      "TH": "คนขับแนะนำ",
+      "EN": "Driver recommended."
+    },
+    "customer_code": {
+      "TH": "รหัสลูกค้า",
+      "EN": "Customer Code"
+    },
+    "my_profile": {
+      "TH": "ข้อมูลของฉัน",
+      "EN": "My profile."
+    },
+    "appointment": {
+      "TH": "ใกล้จะถึงวันนัดหมาย",
+      "EN": "Appointment date."
+    },
+    "see_all_appointment": {
+      "TH": "ดูทั้งหมด",
+      "EN": "See all"
+    },
+    "no_appointment_msg1": {
+      "TH": "ใกล้จะถึงวันนัดหมาย",
+      "EN": "No appointment yet."
+    },
+    "no_appointment_msg2": {
+      "TH": "เริ่มการเดินทางครั้งแรกกันเถอะ !!",
+      "EN": "Let's book an appointment!!"
+    },
+    "callcenter": {
+      "TH": "ศูนย์รับแจ้ง",
+      "EN": "Call Center"
+    },
+    "vrdeiver_call": {
+      "TH": "โทรฉุกเฉิน",
+      "EN": "VR Driver Call"
+    },
+    "myinformation": {
+      "TH": "ข้อมูลของฉัน",
+      "EN": "My Information"
+    },
+    "history": {
+      "TH": "รายการงาน",
+      "EN": "History"
+    },
+    "mypackage": {
+      "TH": "Package ของฉัน",
+      "EN": "My Package"
+    },
+    "mylocation": {
+      "TH": "สถานที่ของฉัน",
+      "EN": "My Location"
+    },
+    "mycar": {
+      "TH": "ข้อมูลรถของฉัน",
+      "EN": "My Car"
+    },
+    "myorder": {
+      "TH": "รายการสั่งซื้อ",
+      "EN": "My Order"
+    },
+    "changelanguage": {
+      "TH": "เปลี่ยนภาษา",
+      "EN": "Language"
+    },
+    "terms_service": {
+      "TH": "ข้อกำหนดและเงื่อนไข",
+      "EN": "Terms of Service."
+    },
+    "privacy_policy": {
+      "TH": "นโยบายความเป็นส่วนตัว",
+      "EN": "Privacy policy."
+    },
+    "logout": {
+      "TH": "ออกจากระบบ",
+      "EN": "Logout."
+    },
+    "someone_login": {
+      "TH": "มีคนอื่นกำลังล็อกอิน",
+      "EN": "Someone else is logging in."
+    },
+    "editinformation": {
+      "TH": "แก้ไขข้อมูลของฉัน",
+      "EN": "Edit Information."
+    },
+    "line_go_connect": {
+      "TH": "เชื่อมต่อกับ LINE",
+      "EN": "Connect with LINE."
+    },
+    "line_connected": {
+      "TH": "เชื่อมต่อแล้ว",
+      "EN": "LINE connected."
+    },
+    "confirm_edit_information": {
+      "TH": "ยืนยันแก้ไขข้อมูล",
+      "EN": "Confirm Edit Information."
+    },
+    "complete_edit_information_1": {
+      "TH": "แก้ไขข้อมูลสำเร็จ",
+      "EN": "Change completed."
+    },
+    "complete_edit_information_2": {
+      "TH": "แก้ไขข้อมูลสำเร็จ",
+      "EN": "Change completed."
+    },
+    "changepassword": {
+      "TH": "เปลี่ยนรหัสผ่าน",
+      "EN": "Change Password."
+    },
+    "current_password": {
+      "TH": "รหัสผ่านปัจจุบัน",
+      "EN": "Current Password."
+    },
+    "new_password": {
+      "TH": "รหัสผ่านใหม่",
+      "EN": "New Password."
+    },
+    "confirm_new_password": {
+      "TH": "ยืนยันรหัสผ่านใหม่",
+      "EN": "Confirm New Password."
+    },
+    "confirm_change_password": {
+      "TH": "ยืนยันการเปลี่ยนรหัสผ่าน",
+      "EN": "Confirm Change Password."
+    },
+    "complete_change_password_1": {
+      "TH": "เปลี่ยนรหัสผ่านเรียบร้อย",
+      "EN": "Change completed."
+    },
+    "complete_change_password_2": {
+      "TH": "เปลี่ยนรหัสผ่านเรียบร้อย",
+      "EN": "Change completed."
+    },
+    "package": {
+      "TH": "แพ็กเกจ",
+      "EN": "Package"
+    },
+    "package_msg_1": {
+      "TH": "Package Driver",
+      "EN": "Package Driver"
+    },
+    "package_msg_2": {
+      "TH": "ตัวจริงของผู้ให้บริการเรียกรถที่ดีที่สุดด มั่นใจในคุณภาพคนขับ",
+      "EN": "Package Driver test text."
+    },
+    "package_time": {
+      "TH": "Package รายครั้ง",
+      "EN": "Package Per Time"
+    },
+    "package_hour": {
+      "TH": "Package รายชั่วโมง",
+      "EN": "Package Per Hour"
+    },
+    "package_time_detail": {
+      "TH": "เรียกคนขับ {data} ครั้ง",
+      "EN": "Can use the service {data} times. "
+    },
+    "package_hour_detail": {
+      "TH": "เรียกคนขับ {data} ชั่วโมง",
+      "EN": "Can use the service for {data} hours."
+    },
+    "no_data_package": {
+      "TH": "ไม่มีแพ็กเกจ",
+      "EN": "No Package."
+    },
+    "no_data_package_to_use": {
+      "TH": "ไม่มี package ให้ตัด",
+      "EN": "No Package."
+    },
+    "package_name": {
+      "TH": "ชื่อ Package",
+      "EN": "Package name"
+    },
+    "package_per_time_msg_1": {
+      "TH": "ประเภท Package รายครั้ง จำนวน {data} ครั้ง ",
+      "EN": "Package per times. For {data} times."
+    },
+    "package_per_hour_msg_1": {
+      "TH": "ประเภท Package รายชั่วโมง จำนวน {data} ชั่วโมง ",
+      "EN": "Package per hour. For {data} hour."
+    },
+    "service_time": {
+      "TH": "ช่วงเวลาการให้บริการ",
+      "EN": "Service time"
+    },
+    "communication": {
+      "TH": "การสื่อสาร",
+      "EN": "Communication"
+    },
+    "service_rate": {
+      "TH": "อัตราค่าบริการ",
+      "EN": "Service rate"
+    },
+    "condition": {
+      "TH": "เงื่อนไขการใช้",
+      "EN": "Condition"
+    },
+    "service_rate_text_1": {
+      "TH": "ชั่วโมงปกติ {data} บาท ต่อชั่วโมง",
+      "EN": "Normal time {data} THB per hour. "
+    },
+    "service_rate_text_2": {
+      "TH": "(ตั้งแต่เวลา 05:00 - 20:00)",
+      "EN": "(Time 05:00 - 20:00)"
+    },
+    "service_rate_text_3": {
+      "TH": "เกินเวลา {data} บาท ต่อชั่วโมง",
+      "EN": "Over time {data} THB per hour. "
+    },
+    "service_rate_text_4": {
+      "TH": "(คิดเรทเป็น 1.5 เท่าของค่าบริการ ตั้งแต่เวลา 20:00-04:59)",
+      "EN": "(Rate x1.5 of service from 2PM-5AM )"
+    },
+    "package_price": {
+      "TH": "ราคาแพ็กเกจ",
+      "EN": "Price"
+    },
+    "THB": {
+      "TH": "บาท",
+      "EN": "THB"
+    },
+    "package_msg_vat": {
+      "TH": "(ยังไม่รวม Vat {data}%)",
+      "EN": "({data}% Vat not included)"
+    },
+    "package_msg_price": {
+      "TH": "อายุการใช้งาน {data} วัน (เริ่มนับอายุการใช้งานจากการเริ่มแพ็กเกจครั้งแรก)",
+      "EN": "Valid for {data} days (Service life starts from the first package start)"
+    },
+    "add_to_cart": {
+      "TH": "เพิ่มลงตะกร้า",
+      "EN": "Add to cart."
+    },
+    "cart": {
+      "TH": "รายการสั่งซื้อ",
+      "EN": "Order list"
+    },
+    "cart_msg_1": {
+      "TH": "ข้อความ ตะกร้า",
+      "EN": "Cart message"
+    },
+    "cart_msg_2": {
+      "TH": ".....",
+      "EN": "....."
+    },
+    "qty": {
+      "TH": "จำนวน",
+      "EN": "Qty"
+    },
+    "price": {
+      "TH": "ราคา",
+      "EN": "Price"
+    },
+    "cart_amount": {
+      "TH": "ยอดรวม",
+      "EN": "Amount"
+    },
+    "cart_vat": {
+      "TH": "ภาษีมูลค่าเพิ่ม {data}% ",
+      "EN": "vat {data}%"
+    },
+    "cart_total_amount": {
+      "TH": "ยอดรวมทั้งหมด",
+      "EN": "Total amount"
+    },
+    "include_vat": {
+      "TH": "include VAT",
+      "EN": "include VAT"
+    },
+    "buy_more": {
+      "TH": "ซื้อแพ็กเกจเพิ่ม",
+      "EN": "Buy more"
+    },
+    "order_summary": {
+      "TH": "สรุปการสั่งซื้อ",
+      "EN": "Order summary"
+    },
+    "cart_sum_msg_1": {
+      "TH": "ข้อความ สรุปการสั่งซื้อ",
+      "EN": "Cart message"
+    },
+    "no_item_in_cart": {
+      "TH": "ไม่มีสินค้าในตะกร้า",
+      "EN": "No item in cart."
+    },
+    "cart_sum_msg_2": {
+      "TH": ".....",
+      "EN": "....."
+    },
+    "confirm_order": {
+      "TH": "ยืนยันการสั่งซื้อ",
+      "EN": "Confirm order"
+    },
+    "payment": {
+      "TH": "ชำระเงิน",
+      "EN": "Payment"
+    },
+    "all_status": {
+      "TH": "ทั้งหมด",
+      "EN": "All"
+    },
+    "wait_payment_status": {
+      "TH": "รอแจ้งการชำระเงิน",
+      "EN": "Pending Payment"
+    },
+    "check_payment_status": {
+      "TH": "กำลังตรวจสอบการชำระเงิน",
+      "EN": "Checking"
+    },
+    "payment_cancel_status": {
+      "TH": "ยกเลิกการสั่งซื้อ",
+      "EN": "Cancel Order"
+    },
+    "payment_disapproval_status": {
+      "TH": "ไม่ผ่านอนุมัติการชำระเงิน",
+      "EN": "Disapprove"
+    },
+    "notes_from_staff": {
+      "TH": "หมายเหตุจากเจ้าหน้าที่",
+      "EN": "Notes from staff."
+    },
+    "complete_status": {
+      "TH": "สั่งซื้อสำเร็จ",
+      "EN": "Success"
+    },
+    "order_amount": {
+      "TH": "ยอดสั่งซื้อ {data} บาท",
+      "EN": "Amount {data} THB"
+    },
+    "order_no_and_date": {
+      "TH": "เลขที่สั่งซื้อ {order} | วันที่สั่งซื้อ {date}",
+      "EN": "Order NO. {order} | Date {date}"
+    },
+    "no_data_order": {
+      "TH": "ไม่มีการสั่งซื้อ",
+      "EN": "No order."
+    },
+    "order_detail": {
+      "TH": "รายละเอียดการสั่งซื้อ",
+      "EN": "Detail"
+    },
+    "cancel_order": {
+      "TH": "ยกเลิกการสั่งซื้อ",
+      "EN": "Cancel order"
+    },
+    "order_complete": {
+      "TH": "การสั่งซื้อสำเร็จ",
+      "EN": "Order Complete."
+    },
+    "payment_detail": {
+      "TH": "รายละเอียดการแจ้งชำระเงิน",
+      "EN": "Transfer detail."
+    },
+    "payment_detail_bank": {
+      "TH": "โอนเข้าธนาคาร",
+      "EN": "Transfer Bank"
+    },
+    "payment_detail_amount": {
+      "TH": "จำนวนเงินที่โอน",
+      "EN": "Transfer amount"
+    },
+    "input_payment_detail_amount": {
+      "TH": "ระบุจำนวนเงิน",
+      "EN": "Input amount"
+    },
+    "payment_detail_date": {
+      "TH": "วันที่ทำรายการ",
+      "EN": "Date"
+    },
+    "pick_date_input": {
+      "TH": "เลือกวัน",
+      "EN": "Select Date"
+    },
+    "payment_detail_time": {
+      "TH": "เวลาที่ทำรายการ",
+      "EN": "Time"
+    },
+    "pick_time_input": {
+      "TH": "เลือกเวลา",
+      "EN": "Select Time"
+    },
+    "payment_detail_image": {
+      "TH": "หลักฐานการโอนเงิน",
+      "EN": "Transfer image"
+    },
+    "payment_detail_image_2": {
+      "TH": "แนบหลักฐานการโอนเงิน",
+      "EN": "Transfer image"
+    },
+    "payment_method": {
+      "TH": "ช่องทางชำระเงิน",
+      "EN": "Transfer image"
+    },
+    "select_bank": {
+      "TH": "ช่องทางชำระเงิน",
+      "EN": "Select Bank"
+    },
+    "copy": {
+      "TH": "คัดลอก",
+      "EN": "copy"
+    },
+    "confirm_payment": {
+      "TH": "ยืนยันการชำระเงิน",
+      "EN": "Confirm payment"
+    },
+    "confirm_payment_complete_1": {
+      "TH": "แจ้งการชำระเงินสำเร็จ",
+      "EN": "Successful payment."
+    },
+    "confirm_payment_complete_2": {
+      "TH": "ทำรายการสำเร็จ",
+      "EN": "Successful payment."
+    },
+    "confirm_payment_complete_3": {
+      "TH": "กรุณารอเจ้าหน้าที่ตรวจสอบการชำระเงิน",
+      "EN": "Please wait for the officer to verify the payment."
+    },
+    "confirm_payment_complete_close": {
+      "TH": "ปิดหน้าต่าง",
+      "EN": "Close"
+    },
+    "err_bank": {
+      "TH": "กรุณาเลือกธนาคาร",
+      "EN": "Please select Bank."
+    },
+    "err_value": {
+      "TH": "กรุณาระบุจำนวนเงิน",
+      "EN": "Please input value."
+    },
+    "err_date": {
+      "TH": "กรุณาเลือกวันที่",
+      "EN": "Please select date."
+    },
+    "err_time": {
+      "TH": "กรุณาเลือกเวลา",
+      "EN": "Please select time."
+    },
+    "err_image": {
+      "TH": "กรุณาเลือกรูปภาพ",
+      "EN": "Please select image."
+    },
+    "add_location": {
+      "TH": "เพิ่มสถานที่",
+      "EN": "Add new location."
+    },
+    "edit_location": {
+      "TH": "แก้ไขสถานที่",
+      "EN": "Edit Location."
+    },
+    "mylocation_detail": {
+      "TH": "รายละเอียด",
+      "EN": "Location detail"
+    },
+    "location_name": {
+      "TH": "ชื่อสถานที่",
+      "EN": "Location name"
+    },
+    "address_name": {
+      "TH": "ที่อยู่",
+      "EN": "Address"
+    },
+    "province": {
+      "TH": "จังหวัด",
+      "EN": "Province"
+    },
+    "postcode": {
+      "TH": "รหัสไปรษณีย์",
+      "EN": "Postcode."
+    },
+    "district": {
+      "TH": "เขต / อำเภอ",
+      "EN": "District"
+    },
+    "subdistrict": {
+      "TH": "ตำบล/แขวง",
+      "EN": "Subdistrict"
+    },
+    "input_location_name": {
+      "TH": "ระบุชื่อสถานที่เช่น บริษัท .....",
+      "EN": "Input location name."
+    },
+    "input_address": {
+      "TH": "ระบุเลขที่ ซอย อาคาร ถนน ...",
+      "EN": "Input location name."
+    },
+    "input_postcode": {
+      "TH": "รหัสไปรษณีย์",
+      "EN": "Postcode"
+    },
+    "err_marker": {
+      "TH": "กรุณาระบุตำแหน่งบนแผนที่",
+      "EN": "Please marker your location on map."
+    },
+    "err_location_name": {
+      "TH": "กรุณาระบุชื่อสถานที่",
+      "EN": "Please input location name."
+    },
+    "err_address": {
+      "TH": "กรุณาระบุที่อยู่",
+      "EN": "Please input address."
+    },
+    "err_postcode": {
+      "TH": "กรุณาระบุรหัสไปรษณีย์",
+      "EN": "Please input postcode."
+    },
+    "err_province": {
+      "TH": "กรุณาเลือกจังหวัด",
+      "EN": "Please select province."
+    },
+    "err_district": {
+      "TH": "กรุณาเลือก เขต/อำเภอ",
+      "EN": "Please select district."
+    },
+    "err_subdistrict": {
+      "TH": "กรุณาเลือก ตำบล/แขวง",
+      "EN": "Please select sub district."
+    },
+    "select_province": {
+      "TH": "เลือกจังหวัด",
+      "EN": "Select province."
+    },
+    "select_district": {
+      "TH": "เลือก เขต/อำเภอ",
+      "EN": "Select province."
+    },
+    "select_subdistrict": {
+      "TH": "เลือกตำบล/แขวง",
+      "EN": "Select province."
+    },
+    "add_location_msg_1": {
+      "TH": "เพื่อความถูกต้องแม่นยำในการใช้งาน",
+      "EN": "For accuracy in use."
+    },
+    "add_location_msg_2": {
+      "TH": "กรุณาตรวจสอบข้อมูลสถานที่/พิกัด ให้ถูกต้อง ก่อนกดปุ่มยืนยันเพิ่มสถานที่",
+      "EN": "Please check that the location information are correct before clicking confirm button."
+    },
+    "confirm_add_location": {
+      "TH": "ยืนยันเพิ่มสถานที่",
+      "EN": "Add Location."
+    },
+    "confirm_edit_location": {
+      "TH": "ยืนยันแก้ไขสถานที่",
+      "EN": "Edit Location."
+    },
+    "confirm_delete_location": {
+      "TH": "ยืนยันการลบสถานที่?",
+      "EN": "Delete Location?"
+    },
+    "delete_location": {
+      "TH": "ลบสถานที่",
+      "EN": "Delete Location."
+    },
+    "no_data_location": {
+      "TH": "ไม่มีสถานที่",
+      "EN": "No location."
+    },
+    "input_license_plate": {
+      "TH": "กรอกเลขทะเบียน",
+      "EN": "input license plate."
+    },
+    "select": {
+      "TH": "เลือก",
+      "EN": "Select"
+    },
+    "confirm_delete_car": {
+      "TH": "ยืนยันการลบรถ",
+      "EN": "Delete Car?"
+    },
+    "add_car": {
+      "TH": "เพิ่มรถส่วนตัว",
+      "EN": "Add personal car."
+    },
+    "edit_car": {
+      "TH": "แก้ไขรถส่วนตัว",
+      "EN": "Edit personal car."
+    },
+    "delete_car": {
+      "TH": "ลบรถส่วนตัว",
+      "EN": "Delete personal car."
+    },
+    "detail_car": {
+      "TH": "รายละเอียด",
+      "EN": "Detail."
+    },
+    "personal_car": {
+      "TH": "รถส่วนตัว",
+      "EN": "Personal car"
+    },
+    "select_car_type": {
+      "TH": "เลือกประเภทรถ",
+      "EN": "Select car type"
+    },
+    "select_car_brand": {
+      "TH": "เลือกยี่ห้อรถ",
+      "EN": "Select brand"
+    },
+    "select_car_gear": {
+      "TH": "เลือกระบบเกียร์",
+      "EN": "Select gear"
+    },
+    "select_car_engine": {
+      "TH": "เลือกประเภทเครื่องยนต์",
+      "EN": "Select engine"
+    },
+    "car_type": {
+      "TH": "ประเภทรถ",
+      "EN": "Car type"
+    },
+    "car_brand": {
+      "TH": "ยี่ห้อรถ",
+      "EN": "Brand"
+    },
+    "car_gear": {
+      "TH": "ระบบเกียร์",
+      "EN": "Gear"
+    },
+    "car_engine": {
+      "TH": "ประเภทเครื่องยนต์",
+      "EN": "Engine"
+    },
+    "license_plate": {
+      "TH": "ป้ายทะเบียน",
+      "EN": "License plate"
+    },
+    "err_car_type": {
+      "TH": "กรุณาเลือกประเภทรถ",
+      "EN": "Please select car type."
+    },
+    "err_car_brand": {
+      "TH": "กรุณาเลือกยี่ห้อรถ",
+      "EN": "Please select brand."
+    },
+    "err_car_gear": {
+      "TH": "กรุณาเลือกระบบเกียร์",
+      "EN": "Please select gear."
+    },
+    "err_car_engine": {
+      "TH": "กรุณาเลือกประเภทเครื่องยนต์",
+      "EN": "Please select engine."
+    },
+    "err_license_plate": {
+      "TH": "กรุณาระบุป้ายทะเบียน",
+      "EN": "Please input license plate."
+    },
+    "err_upload_image": {
+      "TH": "กรุณาอัพโหลดรูปภาพ",
+      "EN": "Please upload image."
+    },
+    "upload_car_image": {
+      "TH": "Upload รูปรถ",
+      "EN": "Upload car image."
+    },
+    "confirm_add_car": {
+      "TH": "ยืนยันการเพิ่มรถยนต์",
+      "EN": "Confirm add car."
+    },
+    "confirm_edit_car": {
+      "TH": "ยืนยันการแก้ไขรถยนต์",
+      "EN": "Confirm edit car."
+    },
+    "no_data_car": {
+      "TH": "ไม่มีข้อมูลรถ",
+      "EN": "No car."
+    },
+    "my_package_list_detail_time": {
+      "TH": "คงเหลือ {time} ครั้ง อายุการใช้งานคงเหลือ {day} วัน",
+      "EN": "Remaining {time} times. {day} days."
+    },
+    "my_package_list_detail_hour": {
+      "TH": "คงเหลือ {time} ชั่วโมง อายุการใช้งานคงเหลือ {day} วัน",
+      "EN": "Remaining {time} hour. {day} days."
+    },
+    "call_driver": {
+      "TH": "เรียกคนขับ",
+      "EN": "Call Driver"
+    },
+    "call_driver_msg_1": {
+      "TH": "ต้องการเรียกคนขับ ?",
+      "EN": "Want to call the driver ?"
+    },
+    "call_driver_msg_2": {
+      "TH": "เรียกล่วงหน้าก่อน 3 วันเดินทาง",
+      "EN": "Call 3 days before the departure."
+    },
+    "call_driver_msg_3": {
+      "TH": "และใช้บริการมากกว่า 6 ชั่วโมง",
+      "EN": "And use the service for more than 6 hours."
+    },
+    "call_driver_remark": {
+      "TH": "หมายเหตุ",
+      "EN": "Remark"
+    },
+    "call_driver_remark_msg_1": {
+      "TH": "กรณีเลือก จุดรับ-ส่งคนละที่ จะมีค่าบริการเพิ่ม 1 ชั่วโมง",
+      "EN": "In case of pick-up and drop-off locations at different locations There will be an additional 1 hour fee."
+    },
+    "call_driver_remark_msg_2": {
+      "TH": "กรณีใช้เวลาเดินทางมากกว่า 6 ชั่วโมง จะมีการคิดค่าบริการเพิ่ม โดยตัดจากแพกเกจรายชั่วโมงของคุณ",
+      "EN": "In case of traveling more than 6 hours, there will be an additional charge By cutting from your hourly package."
+    },
+    "call_driver_remark_msg_3": {
+      "TH": "กรณีใช้ช่วงเวลา Extra Hours หลัง 20:00 จะคิดเห็น 15 ของชั่วโมงปกติ",
+      "EN": "Use of Extra Hours after 20:00 will be calculated as 15 of the normal hours."
+    },
+    "call_driver_remark_msg_4": {
+      "TH": "กรุณาเรียกเผื่อเวลาตรวจสภาพรถ 30 นาที ก่อนการเดินทาง",
+      "EN": "Please call for 30 minutes before checking the vehicle."
+    },
+    "you_no_package": {
+      "TH": "คุณยังไม่มีแพ็กเกจ",
+      "EN": "You have no package."
+    },
+    "go_to": {
+      "TH": "ไปที่",
+      "EN": "Go to"
+    },
+    "buy_package_menu": {
+      "TH": "เมนูซื้อแพ็กเกจ",
+      "EN": "buy package menu."
+    },
+    "enter_call_driver": {
+      "TH": "เรียก Driver",
+      "EN": "Call Driver"
+    },
+    "call_driver_step_1": {
+      "TH": "ขั้นตอนที่ 1 : เลือกวันเดินทาง",
+      "EN": "Step 1: Choose a travel date."
+    },
+    "err_pickdate": {
+      "TH": "กรุณาเลือกวันที่ออกเดินทาง",
+      "EN": "Please select a departure date."
+    },
+    "err_3day_after": {
+      "TH": "กรุณาเลือกล่วงหน้า 3 วันเดินทาง",
+      "EN": "Please call 3 days before the departure."
+    },
+    "err_picktime": {
+      "TH": "กรุณาเลือกเวลาออกเดินทาง",
+      "EN": "Please select a departure time."
+    },
+    "err_hour": {
+      "TH": "กรุณาระบุชั่วโมง",
+      "EN": "Please specify hours."
+    },
+    "err_hour6": {
+      "TH": "กรุณาระบุชั่วโมงให้มากกว่า 6 ชั่วโมง",
+      "EN": "Please specify more than 6 hours."
+    },
+    "err_r_location": {
+      "TH": "กรุณาเลือกสถานที่",
+      "EN": "Please select a location."
+    },
+    "err_s_location": {
+      "TH": "กรุณาเลือกสถานที่",
+      "EN": "Please select a location."
+    },
+    "call_driver_setp1_msg_1": {
+      "TH": "เลือกวันที่เดินทาง",
+      "EN": "Select a travel date"
+    },
+    "call_driver_setp1_msg_2": {
+      "TH": "เรียกล่วงหน้าก่อน 3 วันเดินทาง",
+      "EN": "Call 3 days before the departure."
+    },
+    "call_driver_setp1_msg_3": {
+      "TH": "และใช้บริการมากกว่า 6 ชั่วโมง",
+      "EN": "And use the service for more than 6 hours."
+    },
+    "call_driver_date": {
+      "TH": "ต้องการเรียกคนขับวันที่",
+      "EN": "Date of calling the driver."
+    },
+    "call_driver_time": {
+      "TH": "เวลาเดินทาง",
+      "EN": "Travel time"
+    },
+    "call_driver_hour": {
+      "TH": "จำนวนชั่วโมง",
+      "EN": "Hour"
+    },
+    "call_driver_time_remark": {
+      "TH": "เผื่อเวลาตรวจสอบสภาพรถ ก่อนการเดินทาง 30 นาที",
+      "EN": "Allow time to check the car. 30 minutes before departure."
+    },
+    "call_driver_step1_remark_msg_1": {
+      "TH": "กรณีใช้แพกเกจรายชั่วโมง ต้องใช้บริการมากกว่า 6 ชั่วโมง",
+      "EN": "In the case of using the hourly package Must use the service for more than 6 hours."
+    },
+    "call_driver_step1_remark_msg_2": {
+      "TH": "กรณีใช้แพกเกจรายครั้ง หากใช้มากกว่า 12 ชั่วโมง จะมีการคิดค่าใช้บริการเพิ่ม/ตัดจากแพกเกจอื่น",
+      "EN": "In case of using the package one time If using more than 12 hours, there will be an additional charge / cut from other packages."
+    },
+    "call_driver_step1_remark_msg_3": {
+      "TH": "หากใช้บริการเกินชั่วโมงที่ทำการจอง จะมีการคิดค่าใช้บริการเพิ่ม/ตัดจากแพกเกจอื่น",
+      "EN": "If using the service over the hours of booking There will be a charge added / eliminated from other packages."
+    },
+    "select_location": {
+      "TH": "เลือกสถานที่",
+      "EN": "Select location."
+    },
+    "send_other_location": {
+      "TH": "จุดสุดท้ายในการส่ง คนละสถานที่กับจุดรับ",
+      "EN": "Last point in submission Different locations from the pickup point."
+    },
+    "call_driver_send_remark": {
+      "TH": "กรณีเลือก จุดรับ-ส่ง คนละที่ จะมีค่าใช้จ่ายเพิ่ม 1 ชั่วโมง",
+      "EN": "In the case of pick-up and drop-off points each person will incur an additional 1 hour."
+    },
+    "time_start_to_end": {
+      "TH": "เวลาเดินทางเริ่มต้น-สิ้นสุด",
+      "EN": "Travel time start-end."
+    },
+    "next": {
+      "TH": "ถัดไป",
+      "EN": "Next"
+    },
+    "your_location": {
+      "TH": "สถานที่ของคุณ",
+      "EN": "Your location"
+    },
+    "your_location_msg": {
+      "TH": "เลือกจากสถานที่โปรดของคุณที่บันทึกใว้",
+      "EN": "Choose from your favorite places saved."
+    },
+    "search_location": {
+      "TH": "สถานที่นัดหมาย",
+      "EN": "Appointment location."
+    },
+    "enter_location": {
+      "TH": "ยืนยัน",
+      "EN": "Enter."
+    },
+    "call_driver_step_2": {
+      "TH": "ขั้นตอนที่ 2 : เลือกแพ็กเกจ",
+      "EN": "Step 1: Choose package."
+    },
+    "not_enough_package_msg_1": {
+      "TH": "แพ็กเกจไม่พอ",
+      "EN": "Package is not enough"
+    },
+    "not_enough_package_msg_2": {
+      "TH": "แพ็กเกจที่เลือกใว้ไม่พอสำหรับการใช้งาน",
+      "EN": "Not enough package."
+    },
+    "not_enough_package_msg_3": {
+      "TH": "Please select a package (Reservation)",
+      "EN": "Please select a package (Reservation)"
+    },
+    "close_windows": {
+      "TH": "ปิดหน้าต่าง",
+      "EN": "Close window."
+    },
+    "call_driver_setp2_msg_1": {
+      "TH": "เลือกแพ็กเกจหลัก",
+      "EN": "Choose a main package"
+    },
+    "call_driver_setp2_msg_2": {
+      "TH": "แพ็กเกจที่เลือก จะต้องเหลืออย่างน้อย 2 ชั่วโมง",
+      "EN": "Selected package Must be at least 2 hours left"
+    },
+    "time_selected": {
+      "TH": "เวลาเดินทางที่เลือกใว้",
+      "EN": "Time selected"
+    },
+    "package_selected": {
+      "TH": "เลือกแพ็กเกจ",
+      "EN": "Choose package"
+    },
+    "call_driver_step_2_sub": {
+      "TH": "เลือกแพ็กเกจ (สำรอง)",
+      "EN": "Choose package (reserve)"
+    },
+    "call_driver_setp2_sub_msg_1": {
+      "TH": "เลือกแพ็กเกจ (สำรอง)",
+      "EN": "Choose package (reserve)"
+    },
+    "call_driver_setp2_sub_msg_2": {
+      "TH": "",
+      "EN": ""
+    },
+    "need_more_hour": {
+      "TH": "ขาดอีก {data} ชั่วโมง",
+      "EN": "Missing another {data} hour"
+    },
+    "select_sub_package": {
+      "TH": "เลือกแพ็กเกจ (สำรอง)",
+      "EN": "Choose package (reserve)"
+    },
+    "select_billing": {
+      "TH": "เลือกวางบิลบริษัท",
+      "EN": "Choose Billing Company."
+    },
+    "billing_company_msg1": {
+      "TH": "วางบิลบริษัท",
+      "EN": "Billing Company."
+    },
+    "billing_company_msg2": {
+      "TH": "คุณเลือกวางบิลบริษัท ระบบแจ้งค่าบริการเพิ่มเติม",
+      "EN": "You choose Billing company. Additional service charge notification system."
+    },
+    "billing_company_msg3": {
+      "TH": "ในหน้าสรุปรายการ *ตามเงื่อนไขวางบิลบริษัท",
+      "EN": "On the program summary page * According to company billing conditions."
+    },
+    "call_driver_step_3": {
+      "TH": "ขั้นตอนที่ 3 : รายละเอียดการเดินทาง",
+      "EN": "Step 3: Travel details"
+    },
+    "special_request": {
+      "TH": "Special request",
+      "EN": "Special request"
+    },
+    "special_request_remark": {
+      "TH": "*หมายเหต : Special Request ไม่บังคับระบุ",
+      "EN": "*Note: Special Request is not required."
+    },
+    "select_gender": {
+      "TH": "ระบุเพศคนขับ หรือไม่?",
+      "EN": "Specify the gender of the driver or not."
+    },
+    "select_age_range": {
+      "TH": "ช่วงอายุคนขับ",
+      "EN": "Driver age range."
+    },
+    "select_country": {
+      "TH": "ต้องการคนขับที่สื่อสารภาษาต่างประเทศ ได้หรือไม่?",
+      "EN": "Need a driver who can communicate in foreign languages?"
+    },
+    "special_skills": {
+      "TH": "Special Skills ?",
+      "EN": "Special Skills ?"
+    },
+    "select_special_skills": {
+      "TH": "เลือก Special Skills",
+      "EN": "Select Special Skills"
+    },
+    "special_skills_example": {
+      "TH": "เช่น ผู้สูงอายุ, ไกด์, ครู",
+      "EN": "Example elderly, guide, teacher"
+    },
+    "call_driver_setp3_msg_1": {
+      "TH": "รายละเอียดการเดินทาง",
+      "EN": "Travel details"
+    },
+    "call_driver_setp3_msg_2": {
+      "TH": "",
+      "EN": ""
+    },
+    "select_passenger": {
+      "TH": "เลือกผู้โดยสาร",
+      "EN": "Choose passengers"
+    },
+    "self": {
+      "TH": "ตนเอง",
+      "EN": "Self"
+    },
+    "people_company": {
+      "TH": "บุคคลในองค์กร",
+      "EN": "People in the organization"
+    },
+    "select_car_title": {
+      "TH": "เลือกรถที่ใช้ในการเดินทาง",
+      "EN": "Choose a car"
+    },
+    "select_car": {
+      "TH": "เลือกรถ",
+      "EN": "Choose a car"
+    },
+    "please_select_car": {
+      "TH": "กรุณาเลือกรถ",
+      "EN": "Please select car"
+    },
+    "special_request_title": {
+      "TH": "Special Request (ถ้ามี)",
+      "EN": "Special Request (if any)"
+    },
+    "select_driver_title": {
+      "TH": "เลือกคนขับ",
+      "EN": "Choose driver"
+    },
+    "select_driver": {
+      "TH": "เลือกคนขับ",
+      "EN": "Choose driver"
+    },
+    "driver_not_found": {
+      "TH": "ไม่พบคนขับที่ตรงกับเงื่อนไข",
+      "EN": "Can't find a driver that matches the conditions."
+    },
+    "remark_to_driver_title": {
+      "TH": "หมายเหตุถึงคนขับ",
+      "EN": "Note to the driver"
+    },
+    "list_summary": {
+      "TH": "สรุปรายการ",
+      "EN": "Summary"
+    },
+    "driver_code": {
+      "TH": "รหัส",
+      "EN": "Code"
+    },
+    "view_profile": {
+      "TH": "ดูโปรไฟล์",
+      "EN": "View profile"
+    },
+    "driver_rating": {
+      "TH": "คะแนน",
+      "EN": "Score"
+    },
+    "max_rating": {
+      "TH": "เต็ม 5 คะแนน",
+      "EN": "5 points full"
+    },
+    "driver": {
+      "TH": "คนขับ",
+      "EN": "Driver"
+    },
+    "gender": {
+      "TH": "เพศ",
+      "EN": "Gender"
+    },
+    "age": {
+      "TH": "อายุ",
+      "EN": "Age"
+    },
+    "years_old": {
+      "TH": "ปี",
+      "EN": "years old"
+    },
+    "driver_car_type": {
+      "TH": "ประเภทรถที่ขับได้",
+      "EN": "Type of car that can be driven"
+    },
+    "driver_gear_type": {
+      "TH": "ประเภทเกียร์ที่ขับได้",
+      "EN": "Type of gear that can be driven"
+    },
+    "driver_location": {
+      "TH": "พื้นที่ให้บริการ",
+      "EN": "Service area"
+    },
+    "driver_communication": {
+      "TH": "การสื่อสาร",
+      "EN": "Communication"
+    },
+    "driver_workday": {
+      "TH": "วันที่สะดวกรับงาน",
+      "EN": "Date of acceptance"
+    },
+    "maximum_select_driver": {
+      "TH": "เลือกคนขับครบจำนวนแล้ว",
+      "EN": "Maximum selected."
+    },
+    "call_driver_summary": {
+      "TH": "สรุปรายการ",
+      "EN": "Summary"
+    },
+    "date_and_location": {
+      "TH": "วันที่เดินทาง และสถานที่นัดหมาย",
+      "EN": "Travel date And the appointment location."
+    },
+    "hour": {
+      "TH": "ชั่วโมง",
+      "EN": "Hour"
+    },
+    "booking_by": {
+      "TH": "จองโดย",
+      "EN": "Booking by"
+    },
+    "passenger": {
+      "TH": "ผู้โดยสาร",
+      "EN": "Passenger"
+    },
+    "date_time_start": {
+      "TH": "จองไปรับ",
+      "EN": "Booking Pick up"
+    },
+    "date_time_end": {
+      "TH": "จองไปส่ง",
+      "EN": "Booking Drop Off"
+    },
+    "date_time_accept": {
+      "TH": "เริ่มงานจริง",
+      "EN": "Work Start"
+    },
+    "date_time_finish": {
+      "TH": "จบงานจริง",
+      "EN": "Work End"
+    },
+    "car_selected": {
+      "TH": "รถที่ใช้ในการเดินทาง",
+      "EN": "Car for traveling."
+    },
+    "remark_to_driver": {
+      "TH": "หมายเหตุถึงคนขับ",
+      "EN": "Note to the driver."
+    },
+    "used_package": {
+      "TH": "ใช้ Package",
+      "EN": "Use the package."
+    },
+    "used_time": {
+      "TH": "ใช้ {data} ครั้ง",
+      "EN": "Used {data} times."
+    },
+    "used_hour": {
+      "TH": "ใช้ {data} ชั่วโมง",
+      "EN": "Used {data} hour."
+    },
+    "remain_time": {
+      "TH": "คงเหลือ {data} ครั้ง",
+      "EN": "Remain {data} times."
+    },
+    "remain_hour": {
+      "TH": "คงเหลือ {data} ชั่วโมง",
+      "EN": "Remain {data} hour."
+    },
+    "billing_normal": {
+      "TH": "จอง",
+      "EN": "book"
+    },
+    "billing_normal_time": {
+      "TH": "ในเวลาทำงาน {data} ชั่วโมง",
+      "EN": "In time {data} hour."
+    },
+    "billing_normal_hour_amount": {
+      "TH": "ยอดวางบิล {data} บาท",
+      "EN": "Billing amount {data} baht."
+    },
+    "billing_over": {
+      "TH": "ใช้เกินเวลาที่จอง",
+      "EN": "Over time."
+    },
+    "billing_over_time": {
+      "TH": "นอกเวลางาน {data} ชั่วโมง",
+      "EN": "Over time {data} hour."
+    },
+    "confirm_call_driver": {
+      "TH": "ยืนยันการเรียก Driver",
+      "EN": "Confirm to call driver."
+    },
+    "request_driver": {
+      "TH": "รายการงาน",
+      "EN": "Task list"
+    },
+    "wait_status": {
+      "TH": "รอตอบรับ",
+      "EN": "Waiting for reply"
+    },
+    "accepted_status": {
+      "TH": "ตอบรับแล้ว",
+      "EN": "Accepted"
+    },
+    "customer_cancel_status": {
+      "TH": "ยกเลิกโดยลูกค้า",
+      "EN": "Canceled by customer"
+    },
+    "driver_cancel_status": {
+      "TH": "ยกเลิกโดยคนขับ",
+      "EN": "Canceled by driver"
+    },
+    "upcoming_status": {
+      "TH": "งานที่ใกล้จะถึง",
+      "EN": "Upcoming work"
+    },
+    "on_the_way_status": {
+      "TH": "กำลังเดินทาง",
+      "EN": "Traveling"
+    },
+    "driver_complete_status": {
+      "TH": "สำเร็จ",
+      "EN": "Finish"
+    },
+    "job_no": {
+      "TH": "เลขที่งาน",
+      "EN": "Job No."
+    },
+    "request_deiver_detail": {
+      "TH": "รายละเอียดงาน",
+      "EN": "Job description"
+    },
+    "remark": {
+      "TH": "หมายเหตุ",
+      "EN": "Remark"
+    },
+    "request_remark_1": {
+      "TH": "ตั้งแต่เวลา 20:00น. - 04:59 น.",
+      "EN": "Since time 10:00PM - 04:59AM"
+    },
+    "request_remark_2": {
+      "TH": "เกินเวลาจะต้องชำระเพิ่มชั่วโมงละ 250บาท",
+      "EN": "Over time, will have to pay 250 baht per hour."
+    },
+    "request_remark_3": {
+      "TH": "หากคนขับกดจบงานเกิน 59 นาที จะมีค่าใช้จ่ายเพิ่มเติม",
+      "EN": "If the driver finishes the job over 59 minutes, there will be an additional charge."
+    },
+    "request_detail": {
+      "TH": "การเดินทาง",
+      "EN": "Travel"
+    },
+    "confirm_cancel_request": {
+      "TH": "ยืนยันการยกเลิกงาน?",
+      "EN": "Confirm job cancellation?"
+    },
+    "cancel_request": {
+      "TH": "ยกเลิกงาน",
+      "EN": "Cancel job."
+    },
+    "backhomepage": {
+      "TH": "กลับหน้าหลัก",
+      "EN": "Back to main page."
+    },
+    "delay_job_remark": {
+      "TH": "ถ้าไม่กดภายใน 30นาทีนี้ถือว่าจบงานอัตโนมัติ",
+      "EN": "If you do not press within 30 minutes, this will automatically end the job."
+    },
+    "not_delay_job": {
+      "TH": "ไม่เลื่อนเวลา",
+      "EN": "Not postpone"
+    },
+    "delay_job": {
+      "TH": "เลื่อนเวลา",
+      "EN": "Postpone"
+    },
+    "delay_job_title": {
+      "TH": "ต้องการเลื่อนเวลา",
+      "EN": "Want Postpone Job"
+    },
+    "delay_job_msg1": {
+      "TH": "ตั้งแต่เวลา 20:00น. - 04:59 น.",
+      "EN": "Since time 10:00PM - 04:59AM"
+    },
+    "delay_job_msg2": {
+      "TH": "เกินเวลาจะต้องชำระเพิ่มชั่วโมงละ 250บาท",
+      "EN": "Over time, will have to pay 250 baht per hour."
+    },
+    "delay_job_msg3": {
+      "TH": "หากคนขับกดจบงานเกิน 59 นาที จะมีค่าใช้จ่าย",
+      "EN": "If the driver finishes the job over 59 minutes, there will be an additional charge."
+    },
+    "delay_job_30": {
+      "TH": "เลื่อนอีก 30 นาที",
+      "EN": "Delay 30 minutes."
+    },
+    "delay_job_60": {
+      "TH": "เลื่อนอีก 1 ชั่วโมง",
+      "EN": "Delay 1 hour."
+    },
+    "delay_job_120": {
+      "TH": "เลื่อนอีก 2 ชั่วโมง",
+      "EN": "Delay 2 hour."
+    },
+    "delay_job_add": {
+      "TH": "(จบงานเวลา {data} น.)",
+      "EN": "(End job at {data})"
+    },
+    "please_select_time": {
+      "TH": "กรุณาเลือกเวลา",
+      "EN": "Please select time."
+    },
+    "change_driver": {
+      "TH": "เลือกคนขับใหม่",
+      "EN": "Choose a new driver."
+    },
+    "confirm_start_job": {
+      "TH": "ยืนยันการเริ่มงาน",
+      "EN": "Confirm start"
+    },
+    "reject": {
+      "TH": "ปฏิเสธ",
+      "EN": "Reject"
+    },
+    "acknowledge": {
+      "TH": "รับทราบ",
+      "EN": "Acknowledge"
+    },
+    "confirm_reject": {
+      "TH": "ต้องการปฏิเสธ?",
+      "EN": "Confirm rejection?"
+    },
+    "car_inspection_part": {
+      "TH": "สรุปการตรวจสภาพรถ",
+      "EN": "Vehicle inspection"
+    },
+    "car_inspection_1": {
+      "TH": "สรุปการตรวจสภาพรถ (1)",
+      "EN": "Vehicle inspection (1)"
+    },
+    "mile_start": {
+      "TH": "เลขไมล์เริ่มขับ (กม)",
+      "EN": "Mile Start (km)"
+    },
+    "mile_end": {
+      "TH": "เลขไมล์สิ้นสุด (กม)",
+      "EN": "Vehicle inspection"
+    },
+    "checking_external_car": {
+      "TH": "1. ตรวจสอบภายนอกรถ",
+      "EN": "1. Check the exterior of the car"
+    },
+    "info": {
+      "TH": "แนะนำ",
+      "EN": "Info "
+    },
+    "result_page_2": {
+      "TH": "ผลตรวจหน้าที่ 2",
+      "EN": "Page 2"
+    },
+    "part": {
+      "TH": "ส่วนที่",
+      "EN": "Part"
+    },
+    "inspection_point": {
+      "TH": "สรุปการตรวจสภาพรถ",
+      "EN": "Car inspection"
+    },
+    "normal": {
+      "TH": "ปกติ",
+      "EN": "Normal"
+    },
+    "abnormal": {
+      "TH": "ผิดปกติ",
+      "EN": "Abnormal"
+    },
+    "car_inspection_part2": {
+      "TH": "สรุปการตรวจสภาพรถ (2)",
+      "EN": "Vehicle inspection (2)"
+    },
+    "check_engine_condition": {
+      "TH": "2. ตรวจสภาพรถยนต์ก่อนใช้งาน",
+      "EN": "2. Check the engine condition before use."
+    },
+    "image_check_engine_condition": {
+      "TH": "รูปภาพการตรวจสภาพรถ :",
+      "EN": "Image :"
+    },
+    "suggestion": {
+      "TH": "ข้อเสนอแนะ/คำแนะนำ",
+      "EN": "Suggestion"
+    },
+    "car_inspection": {
+      "TH": "การตรวจสภาพรถ",
+      "EN": "Car Inspection"
+    },
+    "mile_start_value": {
+      "TH": "เลขไมล์เริ่มขับ",
+      "EN": "Mileage start"
+    },
+    "mile_end_value": {
+      "TH": "เลขไมล์สิ้นสุด",
+      "EN": "End Mileage"
+    },
+    "km": {
+      "TH": "กม.",
+      "EN": "km."
+    },
+    "vrdriverpick": {
+      "TH": "ให้ VR Driver เลือกคนขับให้",
+      "EN": "Let VR Driver pick a driver for you."
+    },
+    "please_select_driver": {
+      "TH": "กรุณาเลือกคนขับ",
+      "EN": "Please select driver"
+    },
+    "rating_driver_button": {
+      "TH": "ให้คะแนนการใช้บริการ",
+      "EN": "Rate the service."
+    },
+    "rating_driver_title": {
+      "TH": "ให้คะแนนการใช้บริการครั้งนี้",
+      "EN": "Rate this service."
+    },
+    "rating_driver_msg_1": {
+      "TH": "ให้คะแนนการใช้บริการครั้งนี้",
+      "EN": "Rate this service."
+    },
+    "rating_driver_msg_2": {
+      "TH": "คุณถึงที่หมายโดยสวัสดิภาพแล้วใช่หรือไม่ ?",
+      "EN": "Have you arrived safely at your destination?"
+    },
+    "rating_driver_msg_3": {
+      "TH": "VR Driver ขอขอบคุณจากใจที่คุณใช้บริการของเรา",
+      "EN": "Thank you for using our service."
+    },
+    "rating_driver_msg_4": {
+      "TH": "โปรดให้คะแนนการใช้บริการในครั้งนี้",
+      "EN": "Please rate the service this time."
+    },
+    "rating_driver_msg_5": {
+      "TH": "ความคิดเห็นของคุณจะช่วยพัฒนาการบริการให้ดียิ่งขึ้น",
+      "EN": "Your feedback will help us to improve our service."
+    },
+    "rating_driver_recommend": {
+      "TH": "คำแนะนำเพิ่มเติม",
+      "EN": "More advice"
+    },
+    "rating_driver_recommend_input": {
+      "TH": "พิมคำแนะนำที่นี่...",
+      "EN": "Input here..."
+    },
+    "rating_driver_next_button": {
+      "TH": "ให้คะแนนการใช้บริการ",
+      "EN": "Rate the service."
+    },
+    "rating_driver_confirm_button": {
+      "TH": "ยืนยันการทำรายการ",
+      "EN": "Confirm."
+    },
+    "please_rating_driver": {
+      "TH": "กรุณาให้คะแนนคนขับรถ",
+      "EN": "Please rating driver."
+    },
+    "pay_overtime": {
+      "TH": "ชำระค่าเกินเวลา Package",
+      "EN": "Paying bills over time."
+    },
+    "car_inspection_detail": {
+      "TH": "รายละเอียดการตรวจสภาพรถ",
+      "EN": "Car inspection detail"
+    },
+    "overtime_title": {
+      "TH": "เลือกแพ็กเกจ (สำรอง)",
+      "EN": "Select package (reserve)"
+    },
+    "overtime_sub_msg_1": {
+      "TH": "เกินเวลาจบงาน",
+      "EN": "Over time"
+    },
+    "overtime_sub_msg_2": {
+      "TH": "จึงมีค่าใช้จ่ายเพิ่มเติม กรุณาเลือกแพ็กเกจ",
+      "EN": "Therefore there is an additional cost Please select package"
+    },
+    "overtime_sub_msg_3": {
+      "TH": "สำหรับตัดค่าใช้จ่ายเพิ่มเติม/เลือกวางบิล",
+      "EN": "For cutting additional expenses / choose to billing"
+    },
+    "overtime_remark": {
+      "TH": "หมายเหตุ:",
+      "EN": "Remark"
+    },
+    "overtime_remark_1": {
+      "TH": "1.แพคเกจที่สามารถตัดได้ กรณีเกินเวลา จะแสดงแค่แพ็กเกจรายชั่วโมงเท่านั้น",
+      "EN": "1. Packages that can be cut in case of overdue will only show hourly packages."
+    },
+    "overtime_remark_2": {
+      "TH": "2.หากไม่มีการ  activity ภายใน 60 นาที หลังจากคนขับกดจบงานระบบจะทำการตัดแพ็กเกจ ที่สามารถตัดได้ หากไม่มีแพ็กเกจที่สามารถตัดได้จะเป็นการวางบิลบริษัทอัตโนมัติ",
+      "EN": "2. If there is no activity within 60 minutes after the driver finishes the job, the system will cut the package. That can be cut If there is no package that can be cut, then the company billing is automated."
+    },
+    "overtime_confirm": {
+      "TH": "ยืนยันการทำรายการ",
+      "EN": "Confirm the transaction."
+    },
+    "please_select_package": {
+      "TH": "กรุณาเลือกแพ็กเกจ",
+      "EN": "Please select package."
+    },
+    "line_login": {
+      "TH": "เข้าสู่ระบบด้วย Line",
+      "EN": "Login with Line."
+    }
+  }
+}
